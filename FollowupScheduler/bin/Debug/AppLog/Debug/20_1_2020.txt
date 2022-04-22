@@ -1,0 +1,18 @@
+1/20/2020 5:23:01 PM - *****************FollowUpService - FollowUpProc Starts**************
+1/20/2020 5:23:01 PM - Please wait ..fetching policy list from database
+1/20/2020 5:23:08 PM - Policy list found from database, count: 62074
+1/20/2020 5:23:08 PM - Policy ID starting: 31e16de5-237e-47ef-8d54-06b517eaf183
+1/20/2020 5:23:08 PM - Follow up running  for Policy number: 
+1/20/2020 5:24:00 PM - Details fetching for policyID: 05059eec-5d01-4860-94bd-2d55a262a14e
+1/20/2020 5:24:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _MasterPolicyMode : Monthly
+1/20/2020 5:24:11 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Last follow up runs updated
+1/20/2020 5:24:20 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupDate range found as: {FromDate=1/1/2017 12:00:00 AM}{Paymentmode=Monthly}{ToDate=10/31/2019 12:00:00 AM}
+1/20/2020 5:24:25 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, IsTrackPayment true 
+1/20/2020 5:24:56 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, DateRangeForMissingLst calculated successfully
+1/20/2020 5:24:59 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst count: 0
+1/20/2020 5:26:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst count 2: 0
+1/20/2020 5:27:02 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Processing starts for  _DateRangeForMissingLst
+1/20/2020 5:32:10 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count: 0
+1/20/2020 5:32:11 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Rflag: False
+1/20/2020 5:32:43 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculating 
+1/20/2020 5:32:48 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculated 0

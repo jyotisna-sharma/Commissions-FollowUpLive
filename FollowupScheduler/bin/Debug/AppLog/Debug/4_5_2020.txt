@@ -1,0 +1,96 @@
+5/4/2020 11:21:20 AM - *****************FollowUpService - FollowUpProc Starts**************
+5/4/2020 11:21:20 AM - Please wait ..fetching policy list from database
+5/4/2020 11:21:20 AM - Policy list found from database, count: 1
+5/4/2020 11:21:20 AM - Policy ID starting: 5f27fa6b-3547-4ccb-bbb9-02893bb8d4f4
+5/4/2020 11:21:20 AM - Follow up running  for Policy number: LD6300
+5/4/2020 11:23:26 AM - Details fetching for policyID: c47a4f4b-aa53-493e-bf32-6ead8614750d
+5/4/2020 11:23:30 AM - PolicyID: c47a4f4b-aa53-493e-bf32-6ead8614750d, _MasterPolicyMode : Monthly
+5/4/2020 11:23:31 AM - PolicyID: c47a4f4b-aa53-493e-bf32-6ead8614750d, Last follow up runs updated
+5/4/2020 11:23:51 AM - PolicyID: c47a4f4b-aa53-493e-bf32-6ead8614750d, FollowupDate range found as: {FromDate=7/1/2019 12:00:00 AM}{Paymentmode=Monthly}{ToDate=2/29/2020 12:00:00 AM}
+5/4/2020 11:23:52 AM - PolicyID: c47a4f4b-aa53-493e-bf32-6ead8614750d, IsTrackPayment true 
+5/4/2020 11:23:52 AM - PolicyID: c47a4f4b-aa53-493e-bf32-6ead8614750d, DateRangeForMissingLst calculated successfully
+5/4/2020 11:23:52 AM - PolicyID: c47a4f4b-aa53-493e-bf32-6ead8614750d, FollowupIssueLst count: 0
+5/4/2020 11:23:52 AM - PolicyID: c47a4f4b-aa53-493e-bf32-6ead8614750d, FollowupIssueLst count 2: 0
+5/4/2020 11:23:52 AM - PolicyID: c47a4f4b-aa53-493e-bf32-6ead8614750d, Processing starts for  _DateRangeForMissingLst
+5/4/2020 11:24:01 AM - PolicyID: c47a4f4b-aa53-493e-bf32-6ead8614750d, _PolicyPaymentEntriesFormissing.Count: 1
+5/4/2020 11:24:01 AM - PolicyID: c47a4f4b-aa53-493e-bf32-6ead8614750d, Rflag: False
+5/4/2020 11:24:02 AM - PolicyID: c47a4f4b-aa53-493e-bf32-6ead8614750d, FollowupIssueLst calculating 
+5/4/2020 11:24:04 AM - PolicyID: c47a4f4b-aa53-493e-bf32-6ead8614750d, FollowupIssueLst calculated 0
+5/4/2020 11:24:07 AM - PolicyID: c47a4f4b-aa53-493e-bf32-6ead8614750d, issfolllst calculated 
+5/4/2020 11:24:07 AM - PolicyID: c47a4f4b-aa53-493e-bf32-6ead8614750d, PolicyPaymentEntries > 0 
+5/4/2020 11:24:10 AM - PolicyID: c47a4f4b-aa53-493e-bf32-6ead8614750d, processing for PMC, firstDate: 7/1/2019 12:00:00 AM, LastDate: 7/31/2019 12:00:00 AM
+5/4/2020 11:24:10 AM - PolicyID: c47a4f4b-aa53-493e-bf32-6ead8614750d, flagvarience false, removing issue
+5/4/2020 11:24:14 AM - PolicyID: c47a4f4b-aa53-493e-bf32-6ead8614750d, _PolicyPaymentEntriesFormissing.Count: 0
+5/4/2020 11:24:14 AM - PolicyID: c47a4f4b-aa53-493e-bf32-6ead8614750d, Rflag: False
+5/4/2020 11:24:14 AM - PolicyID: c47a4f4b-aa53-493e-bf32-6ead8614750d, FollowupIssueLst calculating 
+5/4/2020 11:24:14 AM - PolicyID: c47a4f4b-aa53-493e-bf32-6ead8614750d, FollowupIssueLst calculated 0
+5/4/2020 11:24:14 AM - PolicyID: c47a4f4b-aa53-493e-bf32-6ead8614750d, issfolllst calculated 
+5/4/2020 11:24:14 AM - PolicyID: c47a4f4b-aa53-493e-bf32-6ead8614750d, _PolicyPaymentEntriesFormissing.Count == 0 entered
+5/4/2020 11:24:14 AM - PolicyID: c47a4f4b-aa53-493e-bf32-6ead8614750d, Advance found as: 6
+5/4/2020 11:24:14 AM - PolicyID: c47a4f4b-aa53-493e-bf32-6ead8614750d, isIssueRaise: False
+5/4/2020 11:24:15 AM - PolicyID: c47a4f4b-aa53-493e-bf32-6ead8614750d, MissInv Issue skipped as per advance range value
+5/4/2020 11:24:16 AM - PolicyID: c47a4f4b-aa53-493e-bf32-6ead8614750d, _PolicyPaymentEntriesFormissing.Count: 0
+5/4/2020 11:24:16 AM - PolicyID: c47a4f4b-aa53-493e-bf32-6ead8614750d, Rflag: False
+5/4/2020 11:24:16 AM - PolicyID: c47a4f4b-aa53-493e-bf32-6ead8614750d, FollowupIssueLst calculating 
+5/4/2020 11:24:16 AM - PolicyID: c47a4f4b-aa53-493e-bf32-6ead8614750d, FollowupIssueLst calculated 0
+5/4/2020 11:24:16 AM - PolicyID: c47a4f4b-aa53-493e-bf32-6ead8614750d, issfolllst calculated 
+5/4/2020 11:24:16 AM - PolicyID: c47a4f4b-aa53-493e-bf32-6ead8614750d, _PolicyPaymentEntriesFormissing.Count == 0 entered
+5/4/2020 11:24:16 AM - PolicyID: c47a4f4b-aa53-493e-bf32-6ead8614750d, Advance found as: 6
+5/4/2020 11:24:16 AM - PolicyID: c47a4f4b-aa53-493e-bf32-6ead8614750d, isIssueRaise: False
+5/4/2020 11:24:17 AM - PolicyID: c47a4f4b-aa53-493e-bf32-6ead8614750d, MissInv Issue skipped as per advance range value
+5/4/2020 11:24:18 AM - PolicyID: c47a4f4b-aa53-493e-bf32-6ead8614750d, _PolicyPaymentEntriesFormissing.Count: 0
+5/4/2020 11:24:18 AM - PolicyID: c47a4f4b-aa53-493e-bf32-6ead8614750d, Rflag: False
+5/4/2020 11:24:18 AM - PolicyID: c47a4f4b-aa53-493e-bf32-6ead8614750d, FollowupIssueLst calculating 
+5/4/2020 11:24:18 AM - PolicyID: c47a4f4b-aa53-493e-bf32-6ead8614750d, FollowupIssueLst calculated 0
+5/4/2020 11:24:18 AM - PolicyID: c47a4f4b-aa53-493e-bf32-6ead8614750d, issfolllst calculated 
+5/4/2020 11:24:18 AM - PolicyID: c47a4f4b-aa53-493e-bf32-6ead8614750d, _PolicyPaymentEntriesFormissing.Count == 0 entered
+5/4/2020 11:24:18 AM - PolicyID: c47a4f4b-aa53-493e-bf32-6ead8614750d, Advance found as: 6
+5/4/2020 11:24:18 AM - PolicyID: c47a4f4b-aa53-493e-bf32-6ead8614750d, isIssueRaise: False
+5/4/2020 11:24:19 AM - PolicyID: c47a4f4b-aa53-493e-bf32-6ead8614750d, MissInv Issue skipped as per advance range value
+5/4/2020 11:24:20 AM - PolicyID: c47a4f4b-aa53-493e-bf32-6ead8614750d, _PolicyPaymentEntriesFormissing.Count: 0
+5/4/2020 11:24:20 AM - PolicyID: c47a4f4b-aa53-493e-bf32-6ead8614750d, Rflag: False
+5/4/2020 11:24:20 AM - PolicyID: c47a4f4b-aa53-493e-bf32-6ead8614750d, FollowupIssueLst calculating 
+5/4/2020 11:24:20 AM - PolicyID: c47a4f4b-aa53-493e-bf32-6ead8614750d, FollowupIssueLst calculated 0
+5/4/2020 11:24:20 AM - PolicyID: c47a4f4b-aa53-493e-bf32-6ead8614750d, issfolllst calculated 
+5/4/2020 11:24:20 AM - PolicyID: c47a4f4b-aa53-493e-bf32-6ead8614750d, _PolicyPaymentEntriesFormissing.Count == 0 entered
+5/4/2020 11:24:20 AM - PolicyID: c47a4f4b-aa53-493e-bf32-6ead8614750d, Advance found as: 6
+5/4/2020 11:24:20 AM - PolicyID: c47a4f4b-aa53-493e-bf32-6ead8614750d, isIssueRaise: False
+5/4/2020 11:24:23 AM - PolicyID: c47a4f4b-aa53-493e-bf32-6ead8614750d, MissInv Issue skipped as per advance range value
+5/4/2020 11:24:24 AM - PolicyID: c47a4f4b-aa53-493e-bf32-6ead8614750d, _PolicyPaymentEntriesFormissing.Count: 0
+5/4/2020 11:24:24 AM - PolicyID: c47a4f4b-aa53-493e-bf32-6ead8614750d, Rflag: False
+5/4/2020 11:24:24 AM - PolicyID: c47a4f4b-aa53-493e-bf32-6ead8614750d, FollowupIssueLst calculating 
+5/4/2020 11:24:25 AM - PolicyID: c47a4f4b-aa53-493e-bf32-6ead8614750d, FollowupIssueLst calculated 0
+5/4/2020 11:24:25 AM - PolicyID: c47a4f4b-aa53-493e-bf32-6ead8614750d, issfolllst calculated 
+5/4/2020 11:24:25 AM - PolicyID: c47a4f4b-aa53-493e-bf32-6ead8614750d, _PolicyPaymentEntriesFormissing.Count == 0 entered
+5/4/2020 11:24:25 AM - PolicyID: c47a4f4b-aa53-493e-bf32-6ead8614750d, Advance found as: 6
+5/4/2020 11:24:25 AM - PolicyID: c47a4f4b-aa53-493e-bf32-6ead8614750d, isIssueRaise: False
+5/4/2020 11:24:27 AM - PolicyID: c47a4f4b-aa53-493e-bf32-6ead8614750d, MissInv Issue skipped as per advance range value
+5/4/2020 11:24:28 AM - PolicyID: c47a4f4b-aa53-493e-bf32-6ead8614750d, _PolicyPaymentEntriesFormissing.Count: 0
+5/4/2020 11:24:28 AM - PolicyID: c47a4f4b-aa53-493e-bf32-6ead8614750d, Rflag: False
+5/4/2020 11:24:28 AM - PolicyID: c47a4f4b-aa53-493e-bf32-6ead8614750d, FollowupIssueLst calculating 
+5/4/2020 11:24:29 AM - PolicyID: c47a4f4b-aa53-493e-bf32-6ead8614750d, FollowupIssueLst calculated 0
+5/4/2020 11:24:29 AM - PolicyID: c47a4f4b-aa53-493e-bf32-6ead8614750d, issfolllst calculated 
+5/4/2020 11:24:29 AM - PolicyID: c47a4f4b-aa53-493e-bf32-6ead8614750d, _PolicyPaymentEntriesFormissing.Count == 0 entered
+5/4/2020 11:24:29 AM - PolicyID: c47a4f4b-aa53-493e-bf32-6ead8614750d, Advance found as: 6
+5/4/2020 11:24:29 AM - PolicyID: c47a4f4b-aa53-493e-bf32-6ead8614750d, isIssueRaise: True
+5/4/2020 11:25:46 AM - PolicyID: c47a4f4b-aa53-493e-bf32-6ead8614750d, Iissfolllst.Count = 0
+5/4/2020 11:25:51 AM - PolicyID: c47a4f4b-aa53-493e-bf32-6ead8614750d, Issue raised for MissInv (2)
+5/4/2020 11:27:54 AM - PolicyID: c47a4f4b-aa53-493e-bf32-6ead8614750d, AutoPolicyTerminateProcess run
+5/4/2020 11:27:56 AM - PolicyID: c47a4f4b-aa53-493e-bf32-6ead8614750d, _PolicyPaymentEntriesFormissing.Count: 0
+5/4/2020 11:27:56 AM - PolicyID: c47a4f4b-aa53-493e-bf32-6ead8614750d, Rflag: False
+5/4/2020 11:27:56 AM - PolicyID: c47a4f4b-aa53-493e-bf32-6ead8614750d, FollowupIssueLst calculating 
+5/4/2020 11:27:57 AM - PolicyID: c47a4f4b-aa53-493e-bf32-6ead8614750d, FollowupIssueLst calculated 1
+5/4/2020 11:27:57 AM - PolicyID: c47a4f4b-aa53-493e-bf32-6ead8614750d, issfolllst calculated 
+5/4/2020 11:27:57 AM - PolicyID: c47a4f4b-aa53-493e-bf32-6ead8614750d, _PolicyPaymentEntriesFormissing.Count == 0 entered
+5/4/2020 11:27:57 AM - PolicyID: c47a4f4b-aa53-493e-bf32-6ead8614750d, Advance found as: 6
+5/4/2020 11:27:57 AM - PolicyID: c47a4f4b-aa53-493e-bf32-6ead8614750d, isIssueRaise: True
+5/4/2020 11:27:58 AM - PolicyID: c47a4f4b-aa53-493e-bf32-6ead8614750d, Iissfolllst.Count = 0
+5/4/2020 11:28:01 AM - PolicyID: c47a4f4b-aa53-493e-bf32-6ead8614750d, Issue raised for MissInv (2)
+5/4/2020 11:28:01 AM - PolicyID: c47a4f4b-aa53-493e-bf32-6ead8614750d, AutoPolicyTerminateProcess run
+5/4/2020 11:28:01 AM - PolicyID: c47a4f4b-aa53-493e-bf32-6ead8614750d, FollowupIssueLst :{DisplayFollowupIssue={Agency=CXP Insurance Services, LLC}}{DisplayFollowupIssue={AutoTerminationDate=}}{DisplayFollowupIssue={Client=}}{DisplayFollowupIssue={Content=1}}{DisplayFollowupIssue={CreatedDate=5/4/2020 12:00:00 AM}}{DisplayFollowupIssue={FromDate=1/1/2020 12:00:00 AM}}{DisplayFollowupIssue={Insured=ABELARDO GARCIA}}{DisplayFollowupIssue={InvoiceDate=1/1/2020 12:00:00 AM}}{DisplayFollowupIssue={isDeleted={Boolean={Boolean=False}}}}{DisplayFollowupIssue={IsPMCVariance={Boolean={Boolean=False}}}}{DisplayFollowupIssue={IsRemovedFromCommDashboard=}}{DisplayFollowupIssue={IsResolvedFromCommDashboard=}}{DisplayFollowupIssue={IssueCategoryID={Int32={Int32=2}}}}{DisplayFollowupIssue={IssueId=85a3955c-0473-4e87-bfe2-118b4b78c553}}{DisplayFollowupIssue={IssueReasonId={Int32={Int32=1}}}}{DisplayFollowupIssue={IssueResultId={Int32={Int32=4}}}}{DisplayFollowupIssue={IssueStatusId={Int32={Int32=1}}}}{DisplayFollowupIssue={IssueTrackNumber=18171996}}{DisplayFollowupIssue={IsTrackIncomingPercentage={Boolean={Boolean=False}}}}{DisplayFollowupIssue={IsTrackMissingMonth={Boolean={Boolean=True}}}}{DisplayFollowupIssue={IsTrackPayment={Boolean={Boolean=True}}}}{DisplayFollowupIssue={LastModifiedDate=5/4/2020 12:00:00 AM}}{DisplayFollowupIssue={LicenseeId=25c7641f-3500-44dd-b11e-aa3e1f1db921}}{DisplayFollowupIssue={ModifiedBy=}}{DisplayFollowupIssue={NextFollowupDate=}}{DisplayFollowupIssue={Payment=}}{DisplayFollowupIssue={Payor=Anthem}}{DisplayFollowupIssue={PayorId=d0ceaaab-78af-478c-a1f0-9de52b50a436}}{DisplayFollowupIssue={PolicyId=c47a4f4b-aa53-493e-bf32-6ead8614750d}}{DisplayFollowupIssue={PolicyIssueNote=}}{DisplayFollowupIssue={PolicyNumber=115W01111}}{DisplayFollowupIssue={PreviousStatusId=}}{DisplayFollowupIssue={ToDate=1/31/2020 12:00:00 AM}}{DisplayFollowupIssue={Agency=CXP Insurance Services, LLC}}{DisplayFollowupIssue={AutoTerminationDate=}}{DisplayFollowupIssue={Client=}}{DisplayFollowupIssue={Content=1}}{DisplayFollowupIssue={CreatedDate=5/4/2020 12:00:00 AM}}{DisplayFollowupIssue={FromDate=2/1/2020 12:00:00 AM}}{DisplayFollowupIssue={Insured=ABELARDO GARCIA}}{DisplayFollowupIssue={InvoiceDate=2/1/2020 12:00:00 AM}}{DisplayFollowupIssue={isDeleted={Boolean={Boolean=False}}}}{DisplayFollowupIssue={IsPMCVariance={Boolean={Boolean=False}}}}{DisplayFollowupIssue={IsRemovedFromCommDashboard=}}{DisplayFollowupIssue={IsResolvedFromCommDashboard=}}{DisplayFollowupIssue={IssueCategoryID={Int32={Int32=2}}}}{DisplayFollowupIssue={IssueId=ac61516d-97da-41c5-a004-7c5871857198}}{DisplayFollowupIssue={IssueReasonId={Int32={Int32=1}}}}{DisplayFollowupIssue={IssueResultId={Int32={Int32=4}}}}{DisplayFollowupIssue={IssueStatusId={Int32={Int32=1}}}}{DisplayFollowupIssue={IssueTrackNumber=18171997}}{DisplayFollowupIssue={IsTrackIncomingPercentage={Boolean={Boolean=False}}}}{DisplayFollowupIssue={IsTrackMissingMonth={Boolean={Boolean=True}}}}{DisplayFollowupIssue={IsTrackPayment={Boolean={Boolean=True}}}}{DisplayFollowupIssue={LastModifiedDate=5/4/2020 12:00:00 AM}}{DisplayFollowupIssue={LicenseeId=25c7641f-3500-44dd-b11e-aa3e1f1db921}}{DisplayFollowupIssue={ModifiedBy=}}{DisplayFollowupIssue={NextFollowupDate=}}{DisplayFollowupIssue={Payment=}}{DisplayFollowupIssue={Payor=Anthem}}{DisplayFollowupIssue={PayorId=d0ceaaab-78af-478c-a1f0-9de52b50a436}}{DisplayFollowupIssue={PolicyId=c47a4f4b-aa53-493e-bf32-6ead8614750d}}{DisplayFollowupIssue={PolicyIssueNote=}}{DisplayFollowupIssue={PolicyNumber=115W01111}}{DisplayFollowupIssue={PreviousStatusId=}}{DisplayFollowupIssue={ToDate=2/29/2020 12:00:00 AM}}
+5/4/2020 11:28:04 AM - PolicyID: c47a4f4b-aa53-493e-bf32-6ead8614750d, IsTrackIncomingPercentage false
+5/4/2020 11:28:04 AM - PolicyID: c47a4f4b-aa53-493e-bf32-6ead8614750d, _AllPaymentEntriesOnPolicyFormissing processing ID - 0216725f-a171-477a-ac78-ee12a079d10a
+5/4/2020 11:28:13 AM - Incoming schedule is Default
+5/4/2020 11:28:13 AM - PolicyID: c47a4f4b-aa53-493e-bf32-6ead8614750d, flagvarience true
+5/4/2020 11:28:17 AM - PolicyID: c47a4f4b-aa53-493e-bf32-6ead8614750d, LastMissIssueDate updated 
+5/4/2020 11:28:18 AM - *****************FollowUpService - FollowUpProc Completed**************

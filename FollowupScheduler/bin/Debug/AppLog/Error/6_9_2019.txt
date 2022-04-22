@@ -1,0 +1,16 @@
+9/6/2019 4:34:33 PM - Issue  for Policy ID: c83e64e5-a886-4417-a80e-42c46d84fbc8
+9/6/2019 4:34:33 PM -    at System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   at System.Nullable`1.get_Value()
+   at MyAgencyVault.BusinessLibrary.DateGroup.GetAllDateRange() in E:\Jyotisna\Projects\Local SVN\Trunk\trunk\Followup\ApplicationCode\branches\Followup_LocalSVN_Prodn\MyAgencyVault.BusinessLibrary\PostProcess\FollowUpProcedure.cs:line 2928
+   at MyAgencyVault.BusinessLibrary.FollowUpUtill.FromYearlyDate(Guid PolicyId, Boolean isPaymentExist, PolicyDetailsData policy) in E:\Jyotisna\Projects\Local SVN\Trunk\trunk\Followup\ApplicationCode\branches\Followup_LocalSVN_Prodn\MyAgencyVault.BusinessLibrary\PostProcess\FollowUpProcedure.cs:line 2740
+   at MyAgencyVault.BusinessLibrary.FollowUpUtill.CalculateFollowUpDateRange(PaymentMode _PaymentType, PolicyDetailsData Policy, Boolean IsPaymentExist) in E:\Jyotisna\Projects\Local SVN\Trunk\trunk\Followup\ApplicationCode\branches\Followup_LocalSVN_Prodn\MyAgencyVault.BusinessLibrary\PostProcess\FollowUpProcedure.cs:line 1937
+   at MyAgencyVault.FollowUpProcess.FollowUpService.FollowUpProcedure(PolicyDetailsData FollowPolicy, Boolean IsTrackPayment) in E:\Jyotisna\Projects\Local SVN\Trunk\trunk\Followup\ApplicationCode\branches\Followup_LocalSVN_Prodn\FollowUpProcess\FollowUp.cs:line 144
+   at MyAgencyVault.FollowUpProcess.FollowUpService.FollowUpProc() in E:\Jyotisna\Projects\Local SVN\Trunk\trunk\Followup\ApplicationCode\branches\Followup_LocalSVN_Prodn\FollowUpProcess\FollowUp.cs:line 69
+9/6/2019 4:38:44 PM - Issue  for Policy ID: c83e64e5-a886-4417-a80e-42c46d84fbc8
+9/6/2019 4:38:44 PM -    at System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   at System.Nullable`1.get_Value()
+   at MyAgencyVault.BusinessLibrary.DateGroup.GetAllDateRange() in E:\Jyotisna\Projects\Local SVN\Trunk\trunk\Followup\ApplicationCode\branches\Followup_LocalSVN_Prodn\MyAgencyVault.BusinessLibrary\PostProcess\FollowUpProcedure.cs:line 2928
+   at MyAgencyVault.BusinessLibrary.FollowUpUtill.FromYearlyDate(Guid PolicyId, Boolean isPaymentExist, PolicyDetailsData policy) in E:\Jyotisna\Projects\Local SVN\Trunk\trunk\Followup\ApplicationCode\branches\Followup_LocalSVN_Prodn\MyAgencyVault.BusinessLibrary\PostProcess\FollowUpProcedure.cs:line 2740
+   at MyAgencyVault.BusinessLibrary.FollowUpUtill.CalculateFollowUpDateRange(PaymentMode _PaymentType, PolicyDetailsData Policy, Boolean IsPaymentExist) in E:\Jyotisna\Projects\Local SVN\Trunk\trunk\Followup\ApplicationCode\branches\Followup_LocalSVN_Prodn\MyAgencyVault.BusinessLibrary\PostProcess\FollowUpProcedure.cs:line 1937
+   at MyAgencyVault.FollowUpProcess.FollowUpService.FollowUpProcedure(PolicyDetailsData FollowPolicy, Boolean IsTrackPayment) in E:\Jyotisna\Projects\Local SVN\Trunk\trunk\Followup\ApplicationCode\branches\Followup_LocalSVN_Prodn\FollowUpProcess\FollowUp.cs:line 144
+   at MyAgencyVault.FollowUpProcess.FollowUpService.FollowUpProc() in E:\Jyotisna\Projects\Local SVN\Trunk\trunk\Followup\ApplicationCode\branches\Followup_LocalSVN_Prodn\FollowUpProcess\FollowUp.cs:line 69

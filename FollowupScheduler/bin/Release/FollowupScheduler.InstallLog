@@ -1,0 +1,49 @@
+﻿Installing assembly 'D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencySolution\FollowupScheduler\bin\Release\FollowupScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencySolution\FollowupScheduler\bin\Release\FollowupScheduler.InstallLog
+   assemblypath = D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencySolution\FollowupScheduler\bin\Release\FollowupScheduler.exe
+Rolling back assembly 'D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencySolution\FollowupScheduler\bin\Release\FollowupScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencySolution\FollowupScheduler\bin\Release\FollowupScheduler.InstallLog
+   assemblypath = D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencySolution\FollowupScheduler\bin\Release\FollowupScheduler.exe
+Installing assembly 'D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencySolution\FollowupScheduler\bin\Release\FollowupScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencySolution\FollowupScheduler\bin\Release\FollowupScheduler.InstallLog
+   assemblypath = D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencySolution\FollowupScheduler\bin\Release\FollowupScheduler.exe
+Installing service vinod...
+Service vinod has been successfully installed.
+Creating EventLog source vinod in log Application...
+Committing assembly 'D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencySolution\FollowupScheduler\bin\Release\FollowupScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencySolution\FollowupScheduler\bin\Release\FollowupScheduler.InstallLog
+   assemblypath = D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencySolution\FollowupScheduler\bin\Release\FollowupScheduler.exe
+Installing assembly 'D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencySolution\FollowupScheduler\bin\Release\FollowupScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencySolution\FollowupScheduler\bin\Release\FollowupScheduler.InstallLog
+   assemblypath = D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencySolution\FollowupScheduler\bin\Release\FollowupScheduler.exe
+Installing service vinod...
+Creating EventLog source vinod in log Application...
+Rolling back assembly 'D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencySolution\FollowupScheduler\bin\Release\FollowupScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencySolution\FollowupScheduler\bin\Release\FollowupScheduler.InstallLog
+   assemblypath = D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencySolution\FollowupScheduler\bin\Release\FollowupScheduler.exe
+Restoring event log to previous state for source vinod.
+Installing assembly 'D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencySolution\FollowupScheduler\bin\Release\FollowupScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencySolution\FollowupScheduler\bin\Release\FollowupScheduler.InstallLog
+   assemblypath = D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencySolution\FollowupScheduler\bin\Release\FollowupScheduler.exe
+Installing service vinod...
+Creating EventLog source vinod in log Application...
+Rolling back assembly 'D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencySolution\FollowupScheduler\bin\Release\FollowupScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencySolution\FollowupScheduler\bin\Release\FollowupScheduler.InstallLog
+   assemblypath = D:\Projects\WPF\EricWood\MyAgencyVaultLatest\MyAgencySolution\FollowupScheduler\bin\Release\FollowupScheduler.exe
+Restoring event log to previous state for source vinod.

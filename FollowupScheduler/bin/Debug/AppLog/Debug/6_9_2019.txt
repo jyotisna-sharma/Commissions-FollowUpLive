@@ -1,0 +1,21 @@
+9/6/2019 4:33:03 PM - *****************FollowUpService - FollowUpProc Starts**************
+9/6/2019 4:33:05 PM - Please wait ..fetching policy list from database
+9/6/2019 4:33:05 PM - Policy list found from database, count: 1
+9/6/2019 4:33:08 PM - Policy ID starting: c83e64e5-a886-4417-a80e-42c46d84fbc8
+9/6/2019 4:33:09 PM - Follow up running  for Policy number: G5C355695
+9/6/2019 4:33:12 PM - Details fetching for policyID: c83e64e5-a886-4417-a80e-42c46d84fbc8
+9/6/2019 4:33:16 PM - PolicyID: c83e64e5-a886-4417-a80e-42c46d84fbc8, _MasterPolicyMode : Annually
+9/6/2019 4:33:20 PM - PolicyID: c83e64e5-a886-4417-a80e-42c46d84fbc8, Last follow up runs updated
+9/6/2019 4:34:42 PM - Policy list found from database, count: 1
+9/6/2019 4:34:44 PM - Policy ID starting: c83e64e5-a886-4417-a80e-42c46d84fbc8
+9/6/2019 4:34:45 PM - Follow up running  for Policy number: G5C355695
+9/6/2019 4:37:16 PM - Details fetching for policyID: c83e64e5-a886-4417-a80e-42c46d84fbc8
+9/6/2019 4:37:20 PM - PolicyID: c83e64e5-a886-4417-a80e-42c46d84fbc8, _MasterPolicyMode : Annually
+9/6/2019 4:37:26 PM - PolicyID: c83e64e5-a886-4417-a80e-42c46d84fbc8, Last follow up runs updated
+9/6/2019 4:38:19 PM - Policy list found from database, count: 1
+9/6/2019 4:38:19 PM - Policy ID starting: c83e64e5-a886-4417-a80e-42c46d84fbc8
+9/6/2019 4:38:19 PM - Follow up running  for Policy number: G5C355695
+9/6/2019 4:38:19 PM - Details fetching for policyID: c83e64e5-a886-4417-a80e-42c46d84fbc8
+9/6/2019 4:38:19 PM - PolicyID: c83e64e5-a886-4417-a80e-42c46d84fbc8, _MasterPolicyMode : Annually
+9/6/2019 4:38:19 PM - PolicyID: c83e64e5-a886-4417-a80e-42c46d84fbc8, Last follow up runs updated
+9/6/2019 4:38:44 PM - *****************FollowUpService - FollowUpProc Completed**************

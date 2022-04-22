@@ -1,0 +1,813 @@
+1/21/2020 5:18:19 PM - *****************FollowUpService - FollowUpProc Starts**************
+1/21/2020 5:18:24 PM - Please wait ..fetching policy list from database
+1/21/2020 5:18:26 PM - Policy list found from database, count: 62073
+1/21/2020 5:18:30 PM - Policy ID starting: a2fe4582-61fa-451f-bdc0-07473011cf86
+1/21/2020 5:18:30 PM - Follow up running  for Policy number: 
+1/21/2020 5:18:36 PM - Details fetching for policyID: 05059eec-5d01-4860-94bd-2d55a262a14e
+1/21/2020 5:19:03 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _MasterPolicyMode : Monthly
+1/21/2020 5:19:07 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Last follow up runs updated
+1/21/2020 5:19:51 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupDate range found as: {FromDate=1/1/2017 12:00:00 AM}{Paymentmode=Monthly}{ToDate=10/31/2019 12:00:00 AM}
+1/21/2020 5:20:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, IsTrackPayment true 
+1/21/2020 5:20:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, DateRangeForMissingLst calculated successfully
+1/21/2020 5:20:15 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst count: 0
+1/21/2020 5:28:07 PM - Details fetching for policyID: 05059eec-5d01-4860-94bd-2d55a262a14e
+1/21/2020 5:28:07 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _MasterPolicyMode : Monthly
+1/21/2020 5:28:07 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Last follow up runs updated
+1/21/2020 5:28:07 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupDate range found as: {FromDate=1/1/2017 12:00:00 AM}{Paymentmode=Monthly}{ToDate=10/31/2019 12:00:00 AM}
+1/21/2020 5:28:07 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, IsTrackPayment true 
+1/21/2020 5:28:07 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, DateRangeForMissingLst calculated successfully
+1/21/2020 5:28:07 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst count: 610
+1/21/2020 5:28:07 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst count 2: 610
+1/21/2020 5:28:07 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Processing starts for  _DateRangeForMissingLst
+1/21/2020 5:28:07 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count: 0
+1/21/2020 5:28:07 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Rflag: False
+1/21/2020 5:28:07 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculating 
+1/21/2020 5:28:07 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculated 610
+1/21/2020 5:28:07 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, issfolllst calculated 
+1/21/2020 5:28:07 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count == 0 entered
+1/21/2020 5:28:07 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Advance found as: 0
+1/21/2020 5:28:07 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, isIssueRaise: True
+1/21/2020 5:28:07 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Iissfolllst.Count > 0
+1/21/2020 5:28:07 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Issue closed with ID : 792b3e86-9f46-4b79-9655-03ae45759d92, category: 2
+1/21/2020 5:28:07 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, AutoPolicyTerminateProcess run
+1/21/2020 5:28:07 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count: 0
+1/21/2020 5:28:07 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Rflag: False
+1/21/2020 5:28:07 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculating 
+1/21/2020 5:28:07 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculated 610
+1/21/2020 5:28:07 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, issfolllst calculated 
+1/21/2020 5:28:07 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count == 0 entered
+1/21/2020 5:28:07 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Advance found as: 0
+1/21/2020 5:28:07 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, isIssueRaise: True
+1/21/2020 5:28:07 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Iissfolllst.Count > 0
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Issue closed with ID : 23d6e86a-e98a-4005-a95c-f093faed3a8b, category: 2
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, AutoPolicyTerminateProcess run
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count: 0
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Rflag: False
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculating 
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculated 610
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, issfolllst calculated 
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count == 0 entered
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Advance found as: 0
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, isIssueRaise: True
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Iissfolllst.Count > 0
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Issue closed with ID : 0c31534b-8f9a-42a5-9a54-0327d291bdf2, category: 2
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, AutoPolicyTerminateProcess run
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count: 0
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Rflag: False
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculating 
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculated 610
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, issfolllst calculated 
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count == 0 entered
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Advance found as: 0
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, isIssueRaise: True
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Iissfolllst.Count > 0
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Issue closed with ID : bd94b1e1-a2b7-49b2-9bbb-fda5caaf0172, category: 2
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, AutoPolicyTerminateProcess run
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count: 0
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Rflag: False
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculating 
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculated 610
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, issfolllst calculated 
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count == 0 entered
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Advance found as: 0
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, isIssueRaise: True
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Iissfolllst.Count > 0
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Issue closed with ID : a8cdf862-7d9c-4041-83b2-0b71e7c399b3, category: 2
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, AutoPolicyTerminateProcess run
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count: 0
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Rflag: False
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculating 
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculated 610
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, issfolllst calculated 
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count == 0 entered
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Advance found as: 0
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, isIssueRaise: True
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Iissfolllst.Count > 0
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Issue closed with ID : 49e43145-e90d-425d-878c-f3d43c047753, category: 2
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, AutoPolicyTerminateProcess run
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count: 0
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Rflag: False
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculating 
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculated 610
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, issfolllst calculated 
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count == 0 entered
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Advance found as: 0
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, isIssueRaise: True
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Iissfolllst.Count > 0
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Issue closed with ID : 452fabfe-95a4-4d3b-86c1-0a9fcf867974, category: 2
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, AutoPolicyTerminateProcess run
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count: 0
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Rflag: False
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculating 
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculated 610
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, issfolllst calculated 
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count == 0 entered
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Advance found as: 0
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, isIssueRaise: True
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Iissfolllst.Count > 0
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Issue closed with ID : 13ff9e0d-1618-4279-bf59-fc7ccb85a5ac, category: 2
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, AutoPolicyTerminateProcess run
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count: 0
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Rflag: False
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculating 
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculated 610
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, issfolllst calculated 
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count == 0 entered
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Advance found as: 0
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, isIssueRaise: True
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Iissfolllst.Count > 0
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Issue closed with ID : 4b254956-e969-4800-8c1f-1408417977d2, category: 2
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, AutoPolicyTerminateProcess run
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count: 0
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Rflag: False
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculating 
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculated 610
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, issfolllst calculated 
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count == 0 entered
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Advance found as: 0
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, isIssueRaise: True
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Iissfolllst.Count > 0
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Issue closed with ID : 42b03baa-2e6b-4550-b092-f6c55b64db09, category: 2
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, AutoPolicyTerminateProcess run
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count: 0
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Rflag: False
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculating 
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculated 610
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, issfolllst calculated 
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count == 0 entered
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Advance found as: 0
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, isIssueRaise: True
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Iissfolllst.Count > 0
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Issue closed with ID : 6561074e-6bff-4004-b171-109d737aa31e, category: 2
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, AutoPolicyTerminateProcess run
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count: 0
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Rflag: False
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculating 
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculated 610
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, issfolllst calculated 
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count == 0 entered
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Advance found as: 0
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, isIssueRaise: True
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Iissfolllst.Count > 0
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Issue closed with ID : f25d2cbd-c5b5-4072-b7ed-f370132f9b6c, category: 2
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, AutoPolicyTerminateProcess run
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count: 0
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Rflag: False
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculating 
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculated 610
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, issfolllst calculated 
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count == 0 entered
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Advance found as: 0
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, isIssueRaise: True
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Iissfolllst.Count > 0
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Issue closed with ID : 7842a91a-8cd9-4d67-8f1c-32a38861cf30, category: 2
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, AutoPolicyTerminateProcess run
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count: 0
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Rflag: False
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculating 
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculated 610
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, issfolllst calculated 
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count == 0 entered
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Advance found as: 0
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, isIssueRaise: True
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Iissfolllst.Count > 0
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Issue closed with ID : 08a1405d-13ad-4453-8543-f11e290b98c2, category: 2
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, AutoPolicyTerminateProcess run
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count: 0
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Rflag: False
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculating 
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculated 610
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, issfolllst calculated 
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count == 0 entered
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Advance found as: 0
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, isIssueRaise: True
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Iissfolllst.Count > 0
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Issue closed with ID : f30e860a-8e15-4427-85f3-f5a93ccb354a, category: 2
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, AutoPolicyTerminateProcess run
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count: 0
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Rflag: False
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculating 
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculated 610
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, issfolllst calculated 
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count == 0 entered
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Advance found as: 0
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, isIssueRaise: True
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Iissfolllst.Count > 0
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Issue closed with ID : c3509069-9983-421a-aa1e-eb023321b238, category: 2
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, AutoPolicyTerminateProcess run
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count: 0
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Rflag: False
+1/21/2020 5:28:08 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculating 
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculated 610
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, issfolllst calculated 
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count == 0 entered
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Advance found as: 0
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, isIssueRaise: True
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Iissfolllst.Count > 0
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Issue closed with ID : 0783dc45-9a3b-4031-8942-fc954c564de2, category: 2
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, AutoPolicyTerminateProcess run
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count: 0
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Rflag: False
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculating 
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculated 610
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, issfolllst calculated 
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count == 0 entered
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Advance found as: 0
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, isIssueRaise: True
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Iissfolllst.Count > 0
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Issue closed with ID : 35b19afd-4f39-42dd-b2d1-de6badc4e760, category: 2
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, AutoPolicyTerminateProcess run
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count: 0
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Rflag: False
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculating 
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculated 610
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, issfolllst calculated 
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count == 0 entered
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Advance found as: 0
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, isIssueRaise: True
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Iissfolllst.Count > 0
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Issue closed with ID : 405464ef-b55c-4fb8-91ae-f3c7256a1a5c, category: 2
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, AutoPolicyTerminateProcess run
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count: 0
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Rflag: False
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculating 
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculated 610
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, issfolllst calculated 
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count == 0 entered
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Advance found as: 0
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, isIssueRaise: True
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Iissfolllst.Count > 0
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Issue closed with ID : 183dd5e9-af60-452d-9c31-b383da56fe08, category: 2
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, AutoPolicyTerminateProcess run
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count: 0
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Rflag: False
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculating 
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculated 610
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, issfolllst calculated 
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count == 0 entered
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Advance found as: 0
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, isIssueRaise: True
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Iissfolllst.Count > 0
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Issue closed with ID : 3259635c-5b55-42cd-8206-37d49fe20a50, category: 2
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, AutoPolicyTerminateProcess run
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count: 0
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Rflag: False
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculating 
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculated 610
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, issfolllst calculated 
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count == 0 entered
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Advance found as: 0
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, isIssueRaise: True
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Iissfolllst.Count > 0
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Issue closed with ID : 6ecd83d7-ba31-4e2c-b422-e4e170223ec4, category: 2
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, AutoPolicyTerminateProcess run
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count: 0
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Rflag: False
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculating 
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculated 610
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, issfolllst calculated 
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count == 0 entered
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Advance found as: 0
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, isIssueRaise: True
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Iissfolllst.Count > 0
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Issue closed with ID : f99d2dfb-2a03-4ea9-8ee1-2b995f340427, category: 2
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, AutoPolicyTerminateProcess run
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count: 0
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Rflag: False
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculating 
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculated 610
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, issfolllst calculated 
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count == 0 entered
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Advance found as: 0
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, isIssueRaise: True
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Iissfolllst.Count > 0
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Issue closed with ID : ebfaefce-1098-4fba-b86e-f81634faa628, category: 2
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, AutoPolicyTerminateProcess run
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count: 0
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Rflag: False
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculating 
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculated 610
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, issfolllst calculated 
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count == 0 entered
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Advance found as: 0
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, isIssueRaise: True
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Iissfolllst.Count > 0
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Issue closed with ID : 276f932e-e6e3-4f62-a990-2ad8da5e79bc, category: 2
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, AutoPolicyTerminateProcess run
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count: 0
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Rflag: False
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculating 
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculated 610
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, issfolllst calculated 
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count == 0 entered
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Advance found as: 0
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, isIssueRaise: True
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Iissfolllst.Count > 0
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Issue closed with ID : 4665f757-dea6-4c63-aa8d-b8a14eb588a2, category: 2
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, AutoPolicyTerminateProcess run
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count: 0
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Rflag: False
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculating 
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculated 610
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, issfolllst calculated 
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count == 0 entered
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Advance found as: 0
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, isIssueRaise: True
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Iissfolllst.Count > 0
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Issue closed with ID : d34b1751-1e70-4d7c-bd8a-2e65fa737cbf, category: 2
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, AutoPolicyTerminateProcess run
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count: 0
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Rflag: False
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculating 
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculated 610
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, issfolllst calculated 
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count == 0 entered
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Advance found as: 0
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, isIssueRaise: True
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Iissfolllst.Count > 0
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Issue closed with ID : f127e3bf-9a3d-48e0-b968-8b4bf24992e4, category: 2
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, AutoPolicyTerminateProcess run
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count: 0
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Rflag: False
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculating 
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculated 610
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, issfolllst calculated 
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count == 0 entered
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Advance found as: 0
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, isIssueRaise: True
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Iissfolllst.Count > 0
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Issue closed with ID : 34eea545-0ac8-47c8-95a3-4bb4b699daf9, category: 2
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, AutoPolicyTerminateProcess run
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count: 0
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Rflag: False
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculating 
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculated 610
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, issfolllst calculated 
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count == 0 entered
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Advance found as: 0
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, isIssueRaise: True
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Iissfolllst.Count > 0
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Issue closed with ID : 87a663bf-d30e-4082-bcea-7f08efe558a3, category: 2
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, AutoPolicyTerminateProcess run
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count: 0
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Rflag: False
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculating 
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculated 610
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, issfolllst calculated 
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count == 0 entered
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Advance found as: 0
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, isIssueRaise: True
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Iissfolllst.Count > 0
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Issue closed with ID : 4fd7cf5d-7903-4fde-a9c8-500b0e240788, category: 2
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, AutoPolicyTerminateProcess run
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count: 0
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Rflag: False
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculating 
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculated 610
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, issfolllst calculated 
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count == 0 entered
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Advance found as: 0
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, isIssueRaise: True
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Iissfolllst.Count > 0
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Issue closed with ID : 80887483-8ed1-4abd-b3d5-db930d3d65e3, category: 2
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, AutoPolicyTerminateProcess run
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count: 0
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Rflag: False
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculating 
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculated 610
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, issfolllst calculated 
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count == 0 entered
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Advance found as: 0
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, isIssueRaise: True
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Iissfolllst.Count > 0
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Issue closed with ID : 20b21460-4957-44da-b523-befac04caf79, category: 2
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, AutoPolicyTerminateProcess run
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count: 0
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Rflag: False
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculating 
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculated 610
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, issfolllst calculated 
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count == 0 entered
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Advance found as: 0
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, isIssueRaise: True
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Iissfolllst.Count = 0
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Issue raised for MissInv (2)
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, AutoPolicyTerminateProcess run
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst :{DisplayFollowupIssue={Agency=Total Capital Planning Inc}}{DisplayFollowupIssue={AutoTerminationDate=}}{DisplayFollowupIssue={Client=}}{DisplayFollowupIssue={Content=1}}{DisplayFollowupIssue={CreatedDate=7/21/2019 12:00:00 AM}}{DisplayFollowupIssue={FromDate=1/1/2017 12:00:00 AM}}{DisplayFollowupIssue={Insured=Caitlin Moore}}{DisplayFollowupIssue={InvoiceDate=1/1/2017 12:00:00 AM}}{DisplayFollowupIssue={isDeleted={Boolean={Boolean=False}}}}{DisplayFollowupIssue={IsPMCVariance={Boolean={Boolean=False}}}}{DisplayFollowupIssue={IssueCategoryID={Int32={Int32=2}}}}{DisplayFollowupIssue={IssueId=792b3e86-9f46-4b79-9655-03ae45759d92}}{DisplayFollowupIssue={IssueReasonId={Int32={Int32=1}}}}{DisplayFollowupIssue={IssueResultId={Int32={Int32=4}}}}{DisplayFollowupIssue={IssueStatusId={Int32={Int32=1}}}}{DisplayFollowupIssue={IssueTrackNumber=15163920}}{DisplayFollowupIssue={IsTrackIncomingPercentage={Boolean={Boolean=False}}}}{DisplayFollowupIssue={IsTrackMissingMonth={Boolean={Boolean=True}}}}{DisplayFollowupIssue={IsTrackPayment={Boolean={Boolean=True}}}}{DisplayFollowupIssue={LastModifiedDate=1/21/2020 12:00:00 AM}}{DisplayFollowupIssue={LicenseeId=7094a593-79ec-4c74-b311-1580ddd58ca2}}{DisplayFollowupIssue={ModifiedBy=}}{DisplayFollowupIssue={NextFollowupDate=}}{DisplayFollowupIssue={Payment=}}{DisplayFollowupIssue={Payor=}}{DisplayFollowupIssue={PayorId=00000000-0000-0000-0000-000000000000}}{DisplayFollowupIssue={PolicyId=05059eec-5d01-4860-94bd-2d55a262a14e}}{DisplayFollowupIssue={PolicyIssueNote=}}{DisplayFollowupIssue={PolicyNumber=EMMETT GIBBONS-Child Only}}{DisplayFollowupIssue={PreviousStatusId={Int32={Int32=1}}}}{DisplayFollowupIssue={ToDate=1/31/2017 12:00:00 AM}}{DisplayFollowupIssue={Agency=Total Capital Planning Inc}}{DisplayFollowupIssue={AutoTerminationDate=}}{DisplayFollowupIssue={Client=}}{DisplayFollowupIssue={Content=1}}{DisplayFollowupIssue={CreatedDate=3/9/2019 12:00:00 AM}}{DisplayFollowupIssue={FromDate=1/1/2017 12:00:00 AM}}{DisplayFollowupIssue={Insured=Caitlin Moore}}{DisplayFollowupIssue={InvoiceDate=1/1/2017 12:00:00 AM}}{DisplayFollowupIssue={isDeleted={Boolean={Boolean=False}}}}{DisplayFollowupIssue={IsPMCVariance={Boolean={Boolean=False}}}}{DisplayFollowupIssue={IssueCategoryID={Int32={Int32=1}}}}{DisplayFollowupIssue={IssueId=b0ab2360-7e16-4774-ab0e-099e7884a031}}{DisplayFollowupIssue={IssueReasonId={Int32={Int32=1}}}}{DisplayFollowupIssue={IssueResultId={Int32={Int32=4}}}}{DisplayFollowupIssue={IssueStatusId={Int32={Int32=1}}}}{DisplayFollowupIssue={IssueTrackNumber=14878581}}{DisplayFollowupIssue={IsTrackIncomingPercentage={Boolean={Boolean=False}}}}{DisplayFollowupIssue={IsTrackMissingMonth={Boolean={Boolean=True}}}}{DisplayFollowupIssue={IsTrackPayment={Boolean={Boolean=True}}}}{DisplayFollowupIssue={LastModifiedDate=3/9/2019 12:00:00 AM}}{DisplayFollowupIssue={LicenseeId=7094a593-79ec-4c74-b311-1580ddd58ca2}}{DisplayFollowupIssue={ModifiedBy=}}{DisplayFollowupIssue={NextFollowupDate=}}{DisplayFollowupIssue={Payment=}}{DisplayFollowupIssue={Payor=}}{DisplayFollowupIssue={PayorId=00000000-0000-0000-0000-000000000000}}{DisplayFollowupIssue={PolicyId=05059eec-5d01-4860-94bd-2d55a262a14e}}{DisplayFollowupIssue={PolicyIssueNote=}}{DisplayFollowupIssue={PolicyNumber=EMMETT GIBBONS-Child Only}}{DisplayFollowupIssue={PreviousStatusId=}}{DisplayFollowupIssue={ToDate=1/31/2017 12:00:00 AM}}{DisplayFollowupIssue={Agency=Total Capital Planning Inc}}{DisplayFollowupIssue={AutoTerminationDate=}}{DisplayFollowupIssue={Client=}}{DisplayFollowupIssue={Content=1}}{DisplayFollowupIssue={CreatedDate=12/30/2017 12:00:00 AM}}{DisplayFollowupIssue={FromDate=1/1/2017 12:00:00 AM}}{DisplayFollowupIssue={Insured=Caitlin Moore}}{DisplayFollowupIssue={InvoiceDate=1/1/2017 12:00:00 AM}}{DisplayFollowupIssue={isDeleted={Boolean={Boolean=False}}}}{DisplayFollowupIssue={IsPMCVariance={Boolean={Boolean=False}}}}{DisplayFollowupIssue={IssueCategoryID={Int32={Int32=1}}}}{DisplayFollowupIssue={IssueId=cfd2961d-922f-4d78-83ae-150fe7375b49}}{DisplayFollowupIssue={IssueReasonId={Int32={Int32=1}}}}{DisplayFollowupIssue={IssueResultId={Int32={Int32=4}}}}{DisplayFollowupIssue={IssueStatusId={Int32={Int32=1}}}}{DisplayFollowupIssue={IssueTrackNumber=14160072}}{DisplayFollowupIssue={IsTrackIncomingPercentage={Boolean={Boolean=False}}}}{DisplayFollowupIssue={IsTrackMissingMonth={Boolean={Boolean=True}}}}{DisplayFollowupIssue={IsTrackPayment={Boolean={Boolean=True}}}}{DisplayFollowupIssue={LastModifiedDate=12/30/2017 12:00:00 AM}}{DisplayFollowupIssue={LicenseeId=7094a593-79ec-4c74-b311-1580ddd58ca2}}{DisplayFollowupIssue={ModifiedBy=}}{DisplayFollowupIssue={NextFollowupDate=}}{DisplayFollowupIssue={Payment=}}{DisplayFollowupIssue={Payor=}}{DisplayFollowupIssue={PayorId=00000000-0000-0000-0000-000000000000}}{DisplayFollowupIssue={PolicyId=05059eec-5d01-4860-94bd-2d55a262a14e}}{DisplayFollowupIssue={PolicyIssueNote=}}{DisplayFollowupIssue={PolicyNumber=EMMETT GIBBONS-Child Only}}{DisplayFollowupIssue={PreviousStatusId=}}{DisplayFollowupIssue={ToDate=1/31/2017 12:00:00 AM}}{DisplayFollowupIssue={Agency=Total Capital Planning Inc}}{DisplayFollowupIssue={AutoTerminationDate=}}{DisplayFollowupIssue={Client=}}{DisplayFollowupIssue={Content=1}}{DisplayFollowupIssue={CreatedDate=10/5/2019 12:00:00 AM}}{DisplayFollowupIssue={FromDate=1/1/2017 12:00:00 AM}}{DisplayFollowupIssue={Insured=Caitlin Moore}}{DisplayFollowupIssue={InvoiceDate=1/1/2017 12:00:00 AM}}{DisplayFollowupIssue={isDeleted={Boolean={Boolean=False}}}}{DisplayFollowupIssue={IsPMCVariance={Boolean={Boolean=False}}}}{DisplayFollowupIssue={IssueCategoryID={Int32={Int32=1}}}}{DisplayFollowupIssue={IssueId=98a2b5ee-fd81-4cfc-be9d-1d52a296c320}}{DisplayFollowupIssue={IssueReasonId={Int32={Int32=1}}}}{DisplayFollowupIssue={IssueResultId={Int32={Int32=4}}}}{DisplayFollowupIssue={IssueStatusId={Int32={Int32=1}}}}{DisplayFollowupIssue={IssueTrackNumber=16005199}}{DisplayFollowupIssue={IsTrackIncomingPercentage={Boolean={Boolean=False}}}}{DisplayFollowupIssue={IsTrackMissingMonth={Boolean={Boolean=True}}}}{DisplayFollowupIssue={IsTrackPayment={Boolean={Boolean=True}}}}{DisplayFollowupIssue={LastModifiedDate=10/5/2019 12:00:00 AM}}{DisplayFollowupIssue={LicenseeId=7094a593-79ec-4c74-b311-1580ddd58ca2}}{DisplayFollowupIssue={ModifiedBy=}}{DisplayFollowupIssue={NextFollowupDate=}}{DisplayFollowupIssue={Payment=}}{DisplayFollowupIssue={Payor=}}{DisplayFollowupIssue={PayorId=00000000-0000-0000-0000-000000000000}}{DisplayFollowupIssue={PolicyId=05059eec-5d01-4860-94bd-2d55a262a14e}}{DisplayFollowupIssue={PolicyIssueNote=}}{DisplayFollowupIssue={PolicyNumber=EMMETT GIBBONS-Child Only}}{DisplayFollowupIssue={PreviousStatusId=}}{DisplayFollowupIssue={ToDate=1/31/2017 12:00:00 AM}}{DisplayFollowupIssue={Agency=Total Capital Planning Inc}}{DisplayFollowupIssue={AutoTerminationDate=}}{DisplayFollowupIssue={Client=}}{DisplayFollowupIssue={Content=1}}{DisplayFollowupIssue={CreatedDate=11/2/2018 12:00:00 AM}}{DisplayFollowupIssue={FromDate=1/1/2017 12:00:00 AM}}{DisplayFollowupIssue={Insured=Caitlin Moore}}{DisplayFollowupIssue={InvoiceDate=1/1/2017 12:00:00 AM}}{DisplayFollowupIssue={isDeleted={Boolean={Boolean=False}}}}{DisplayFollowupIssue={IsPMCVariance={Boolean={Boolean=False}}}}{DisplayFollowupIssue={IssueCategoryID={Int32={Int32=1}}}}{DisplayFollowupIssue={IssueId=d24a9e01-2213-455d-9600-35e9c54579ef}}{DisplayFollowupIssue={IssueReasonId={Int32={Int32=1}}}}{DisplayFollowupIssue={IssueResultId={Int32={Int32=4}}}}{DisplayFollowupIssue={IssueStatusId={Int32={Int32=1}}}}{DisplayFollowupIssue={IssueTrackNumber=14613309}}{DisplayFollowupIssue={IsTrackIncomingPercentage={Boolean={Boolean=False}}}}{DisplayFollowupIssue={IsTrackMissingMonth={Boolean={Boolean=True}}}}{DisplayFollowupIssue={IsTrackPayment={Boolean={Boolean=True}}}}{DisplayFollowupIssue={LastModifiedDate=11/2/2018 12:00:00 AM}}{DisplayFollowupIssue={LicenseeId=7094a593-79ec-4c74-b311-1580ddd58ca2}}{DisplayFollowupIssue={ModifiedBy=}}{DisplayFollowupIssue={NextFollowupDate=}}{DisplayFollowupIssue={Payment=}}{DisplayFollowupIssue={Payor=}}{DisplayFollowupIssue={PayorId=00000000-0000-0000-0000-000000000000}}{DisplayFollowupIssue={PolicyId=05059eec-5d01-4860-94bd-2d55a262a14e}}{DisplayFollowupIssue={PolicyIssueNote=}}{DisplayFollowupIssue={PolicyNumber=EMMETT GIBBONS-Child Only}}{DisplayFollowupIssue={PreviousStatusId=}}{DisplayFollowupIssue={ToDate=1/31/2017 12:00:00 AM}}{DisplayFollowupIssue={Agency=Total Capital Planning Inc}}{DisplayFollowupIssue={AutoTerminationDate=}}{DisplayFollowupIssue={Client=}}{DisplayFollowupIssue={Content=1}}{DisplayFollowupIssue={CreatedDate=9/13/2019 12:00:00 AM}}{DisplayFollowupIssue={FromDate=1/1/2017 12:00:00 AM}}{DisplayFollowupIssue={Insured=Caitlin Moore}}{DisplayFollowupIssue={InvoiceDate=1/1/2017 12:00:00 AM}}{DisplayFollowupIssue={isDeleted={Boolean={Boolean=False}}}}{DisplayFollowupIssue={IsPMCVariance={Boolean={Boolean=False}}}}{DisplayFollowupIssue={IssueCategoryID={Int32={Int32=1}}}}{DisplayFollowupIssue={IssueId=be2d2d88-ce2a-43dc-ab85-3d48fc556aff}}{DisplayFollowupIssue={IssueReasonId={Int32={Int32=1}}}}{DisplayFollowupIssue={IssueResultId={Int32={Int32=4}}}}{DisplayFollowupIssue={IssueStatusId={Int32={Int32=1}}}}{DisplayFollowupIssue={IssueTrackNumber=15782691}}{DisplayFollowupIssue={IsTrackIncomingPercentage={Boolean={Boolean=False}}}}{DisplayFollowupIssue={IsTrackMissingMonth={Boolean={Boolean=True}}}}{DisplayFollowupIssue={IsTrackPayment={Boolean={Boolean=True}}}}{DisplayFollowupIssue={LastModifiedDate=9/13/2019 12:00:00 AM}}{DisplayFollowupIssue={LicenseeId=7094a593-79ec-4c74-b311-1580ddd58ca2}}{DisplayFollowupIssue={ModifiedBy=}}{DisplayFollowupIssue={NextFollowupDate=}}{DisplayFollowupIssue={Payment=}}{DisplayFollowupIssue={Payor=}}{DisplayFollowupIssue={PayorId=00000000-0000-0000-0000-000000000000}}{DisplayFollowupIssue={PolicyId=05059eec-5d01-4860-94bd-2d55a262a14e}}{DisplayFollowupIssue={PolicyIssueNote=}}{DisplayFollowupIssue={PolicyNumber=EMMETT GIBBONS-Child Only}}{DisplayFollowupIssue={PreviousStatusId=}}{DisplayFollowupIssue={ToDate=1/31/2017 12:00:00 AM}}
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, IsTrackIncomingPercentage false
+1/21/2020 5:28:09 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, LastMissIssueDate updated 
+1/21/2020 5:28:09 PM - Policy ID starting: 31e16de5-237e-47ef-8d54-06b517eaf183
+1/21/2020 5:28:09 PM - Follow up running  for Policy number: 
+1/21/2020 5:28:11 PM - Details fetching for policyID: 05059eec-5d01-4860-94bd-2d55a262a14e
+1/21/2020 5:28:11 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _MasterPolicyMode : Monthly
+1/21/2020 5:28:11 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Last follow up runs updated
+1/21/2020 5:28:11 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupDate range found as: {FromDate=1/1/2017 12:00:00 AM}{Paymentmode=Monthly}{ToDate=10/31/2019 12:00:00 AM}
+1/21/2020 5:28:11 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, IsTrackPayment true 
+1/21/2020 5:28:11 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, DateRangeForMissingLst calculated successfully
+1/21/2020 5:28:11 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst count: 611
+1/21/2020 5:28:11 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst count 2: 611
+1/21/2020 5:28:11 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Processing starts for  _DateRangeForMissingLst
+1/21/2020 5:28:11 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count: 0
+1/21/2020 5:28:11 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Rflag: False
+1/21/2020 5:28:11 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculating 
+1/21/2020 5:28:11 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculated 611
+1/21/2020 5:28:11 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, issfolllst calculated 
+1/21/2020 5:28:11 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count == 0 entered
+1/21/2020 5:28:11 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Advance found as: 0
+1/21/2020 5:28:11 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, isIssueRaise: True
+1/21/2020 5:28:11 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Iissfolllst.Count > 0
+1/21/2020 5:28:11 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Issue closed with ID : 792b3e86-9f46-4b79-9655-03ae45759d92, category: 1
+1/21/2020 5:28:11 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, AutoPolicyTerminateProcess run
+1/21/2020 5:28:11 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count: 0
+1/21/2020 5:28:11 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Rflag: False
+1/21/2020 5:28:11 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculating 
+1/21/2020 5:28:11 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculated 611
+1/21/2020 5:28:11 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, issfolllst calculated 
+1/21/2020 5:28:11 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count == 0 entered
+1/21/2020 5:28:11 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Advance found as: 0
+1/21/2020 5:28:11 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, isIssueRaise: True
+1/21/2020 5:28:11 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Iissfolllst.Count > 0
+1/21/2020 5:28:11 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Issue closed with ID : 23d6e86a-e98a-4005-a95c-f093faed3a8b, category: 2
+1/21/2020 5:28:11 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, AutoPolicyTerminateProcess run
+1/21/2020 5:28:11 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count: 0
+1/21/2020 5:28:11 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Rflag: False
+1/21/2020 5:28:11 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculating 
+1/21/2020 5:28:11 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculated 611
+1/21/2020 5:28:11 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, issfolllst calculated 
+1/21/2020 5:28:11 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count == 0 entered
+1/21/2020 5:28:11 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Advance found as: 0
+1/21/2020 5:28:11 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, isIssueRaise: True
+1/21/2020 5:28:11 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Iissfolllst.Count > 0
+1/21/2020 5:28:11 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Issue closed with ID : 0c31534b-8f9a-42a5-9a54-0327d291bdf2, category: 2
+1/21/2020 5:28:11 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, AutoPolicyTerminateProcess run
+1/21/2020 5:28:11 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count: 0
+1/21/2020 5:28:11 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Rflag: False
+1/21/2020 5:28:11 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculating 
+1/21/2020 5:28:11 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculated 611
+1/21/2020 5:28:11 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, issfolllst calculated 
+1/21/2020 5:28:11 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count == 0 entered
+1/21/2020 5:28:11 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Advance found as: 0
+1/21/2020 5:28:11 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, isIssueRaise: True
+1/21/2020 5:28:11 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Iissfolllst.Count > 0
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Issue closed with ID : bd94b1e1-a2b7-49b2-9bbb-fda5caaf0172, category: 2
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, AutoPolicyTerminateProcess run
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count: 0
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Rflag: False
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculating 
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculated 611
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, issfolllst calculated 
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count == 0 entered
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Advance found as: 0
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, isIssueRaise: True
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Iissfolllst.Count > 0
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Issue closed with ID : a8cdf862-7d9c-4041-83b2-0b71e7c399b3, category: 2
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, AutoPolicyTerminateProcess run
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count: 0
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Rflag: False
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculating 
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculated 611
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, issfolllst calculated 
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count == 0 entered
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Advance found as: 0
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, isIssueRaise: True
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Iissfolllst.Count > 0
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Issue closed with ID : 49e43145-e90d-425d-878c-f3d43c047753, category: 2
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, AutoPolicyTerminateProcess run
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count: 0
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Rflag: False
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculating 
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculated 611
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, issfolllst calculated 
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count == 0 entered
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Advance found as: 0
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, isIssueRaise: True
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Iissfolllst.Count > 0
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Issue closed with ID : 452fabfe-95a4-4d3b-86c1-0a9fcf867974, category: 2
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, AutoPolicyTerminateProcess run
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count: 0
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Rflag: False
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculating 
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculated 611
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, issfolllst calculated 
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count == 0 entered
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Advance found as: 0
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, isIssueRaise: True
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Iissfolllst.Count > 0
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Issue closed with ID : 13ff9e0d-1618-4279-bf59-fc7ccb85a5ac, category: 2
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, AutoPolicyTerminateProcess run
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count: 0
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Rflag: False
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculating 
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculated 611
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, issfolllst calculated 
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count == 0 entered
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Advance found as: 0
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, isIssueRaise: True
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Iissfolllst.Count > 0
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Issue closed with ID : 4b254956-e969-4800-8c1f-1408417977d2, category: 2
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, AutoPolicyTerminateProcess run
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count: 0
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Rflag: False
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculating 
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculated 611
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, issfolllst calculated 
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count == 0 entered
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Advance found as: 0
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, isIssueRaise: True
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Iissfolllst.Count > 0
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Issue closed with ID : 42b03baa-2e6b-4550-b092-f6c55b64db09, category: 2
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, AutoPolicyTerminateProcess run
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count: 0
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Rflag: False
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculating 
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculated 611
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, issfolllst calculated 
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count == 0 entered
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Advance found as: 0
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, isIssueRaise: True
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Iissfolllst.Count > 0
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Issue closed with ID : 6561074e-6bff-4004-b171-109d737aa31e, category: 2
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, AutoPolicyTerminateProcess run
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count: 0
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Rflag: False
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculating 
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculated 611
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, issfolllst calculated 
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count == 0 entered
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Advance found as: 0
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, isIssueRaise: True
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Iissfolllst.Count > 0
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Issue closed with ID : f25d2cbd-c5b5-4072-b7ed-f370132f9b6c, category: 2
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, AutoPolicyTerminateProcess run
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count: 0
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Rflag: False
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculating 
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculated 611
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, issfolllst calculated 
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count == 0 entered
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Advance found as: 0
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, isIssueRaise: True
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Iissfolllst.Count > 0
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Issue closed with ID : 7842a91a-8cd9-4d67-8f1c-32a38861cf30, category: 2
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, AutoPolicyTerminateProcess run
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count: 0
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Rflag: False
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculating 
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculated 611
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, issfolllst calculated 
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count == 0 entered
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Advance found as: 0
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, isIssueRaise: True
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Iissfolllst.Count > 0
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Issue closed with ID : 08a1405d-13ad-4453-8543-f11e290b98c2, category: 2
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, AutoPolicyTerminateProcess run
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count: 0
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Rflag: False
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculating 
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculated 611
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, issfolllst calculated 
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count == 0 entered
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Advance found as: 0
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, isIssueRaise: True
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Iissfolllst.Count > 0
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Issue closed with ID : f30e860a-8e15-4427-85f3-f5a93ccb354a, category: 2
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, AutoPolicyTerminateProcess run
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count: 0
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Rflag: False
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculating 
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculated 611
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, issfolllst calculated 
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count == 0 entered
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Advance found as: 0
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, isIssueRaise: True
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Iissfolllst.Count > 0
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Issue closed with ID : c3509069-9983-421a-aa1e-eb023321b238, category: 2
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, AutoPolicyTerminateProcess run
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count: 0
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Rflag: False
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculating 
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculated 611
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, issfolllst calculated 
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count == 0 entered
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Advance found as: 0
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, isIssueRaise: True
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Iissfolllst.Count > 0
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Issue closed with ID : 0783dc45-9a3b-4031-8942-fc954c564de2, category: 2
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, AutoPolicyTerminateProcess run
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count: 0
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Rflag: False
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculating 
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculated 611
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, issfolllst calculated 
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count == 0 entered
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Advance found as: 0
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, isIssueRaise: True
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Iissfolllst.Count > 0
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Issue closed with ID : 35b19afd-4f39-42dd-b2d1-de6badc4e760, category: 2
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, AutoPolicyTerminateProcess run
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count: 0
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Rflag: False
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculating 
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculated 611
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, issfolllst calculated 
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count == 0 entered
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Advance found as: 0
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, isIssueRaise: True
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Iissfolllst.Count > 0
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Issue closed with ID : 405464ef-b55c-4fb8-91ae-f3c7256a1a5c, category: 2
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, AutoPolicyTerminateProcess run
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count: 0
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Rflag: False
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculating 
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculated 611
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, issfolllst calculated 
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count == 0 entered
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Advance found as: 0
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, isIssueRaise: True
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Iissfolllst.Count > 0
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Issue closed with ID : 183dd5e9-af60-452d-9c31-b383da56fe08, category: 2
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, AutoPolicyTerminateProcess run
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count: 0
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Rflag: False
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculating 
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculated 611
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, issfolllst calculated 
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count == 0 entered
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Advance found as: 0
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, isIssueRaise: True
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Iissfolllst.Count > 0
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Issue closed with ID : 3259635c-5b55-42cd-8206-37d49fe20a50, category: 2
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, AutoPolicyTerminateProcess run
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count: 0
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Rflag: False
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculating 
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculated 611
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, issfolllst calculated 
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count == 0 entered
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Advance found as: 0
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, isIssueRaise: True
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Iissfolllst.Count > 0
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Issue closed with ID : 6ecd83d7-ba31-4e2c-b422-e4e170223ec4, category: 2
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, AutoPolicyTerminateProcess run
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count: 0
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Rflag: False
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculating 
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculated 611
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, issfolllst calculated 
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count == 0 entered
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Advance found as: 0
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, isIssueRaise: True
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Iissfolllst.Count > 0
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Issue closed with ID : f99d2dfb-2a03-4ea9-8ee1-2b995f340427, category: 2
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, AutoPolicyTerminateProcess run
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count: 0
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Rflag: False
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculating 
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculated 611
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, issfolllst calculated 
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count == 0 entered
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Advance found as: 0
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, isIssueRaise: True
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Iissfolllst.Count > 0
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Issue closed with ID : ebfaefce-1098-4fba-b86e-f81634faa628, category: 2
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, AutoPolicyTerminateProcess run
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count: 0
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Rflag: False
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculating 
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculated 611
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, issfolllst calculated 
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count == 0 entered
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Advance found as: 0
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, isIssueRaise: True
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Iissfolllst.Count > 0
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Issue closed with ID : 276f932e-e6e3-4f62-a990-2ad8da5e79bc, category: 2
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, AutoPolicyTerminateProcess run
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count: 0
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Rflag: False
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculating 
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculated 611
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, issfolllst calculated 
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count == 0 entered
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Advance found as: 0
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, isIssueRaise: True
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Iissfolllst.Count > 0
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Issue closed with ID : 4665f757-dea6-4c63-aa8d-b8a14eb588a2, category: 2
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, AutoPolicyTerminateProcess run
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count: 0
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Rflag: False
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculating 
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculated 611
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, issfolllst calculated 
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count == 0 entered
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Advance found as: 0
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, isIssueRaise: True
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Iissfolllst.Count > 0
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Issue closed with ID : d34b1751-1e70-4d7c-bd8a-2e65fa737cbf, category: 2
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, AutoPolicyTerminateProcess run
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count: 0
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Rflag: False
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculating 
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculated 611
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, issfolllst calculated 
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count == 0 entered
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Advance found as: 0
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, isIssueRaise: True
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Iissfolllst.Count > 0
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Issue closed with ID : f127e3bf-9a3d-48e0-b968-8b4bf24992e4, category: 2
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, AutoPolicyTerminateProcess run
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count: 0
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Rflag: False
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculating 
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculated 611
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, issfolllst calculated 
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count == 0 entered
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Advance found as: 0
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, isIssueRaise: True
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Iissfolllst.Count > 0
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Issue closed with ID : 34eea545-0ac8-47c8-95a3-4bb4b699daf9, category: 2
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, AutoPolicyTerminateProcess run
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count: 0
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Rflag: False
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculating 
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculated 611
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, issfolllst calculated 
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count == 0 entered
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Advance found as: 0
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, isIssueRaise: True
+1/21/2020 5:28:12 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Iissfolllst.Count > 0
+1/21/2020 5:28:13 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Issue closed with ID : 87a663bf-d30e-4082-bcea-7f08efe558a3, category: 2
+1/21/2020 5:28:13 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, AutoPolicyTerminateProcess run
+1/21/2020 5:28:13 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count: 0
+1/21/2020 5:28:13 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Rflag: False
+1/21/2020 5:28:13 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculating 
+1/21/2020 5:28:13 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculated 611
+1/21/2020 5:28:13 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, issfolllst calculated 
+1/21/2020 5:28:13 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count == 0 entered
+1/21/2020 5:28:13 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Advance found as: 0
+1/21/2020 5:28:13 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, isIssueRaise: True
+1/21/2020 5:28:13 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Iissfolllst.Count > 0
+1/21/2020 5:28:13 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Issue closed with ID : 4fd7cf5d-7903-4fde-a9c8-500b0e240788, category: 2
+1/21/2020 5:28:13 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, AutoPolicyTerminateProcess run
+1/21/2020 5:28:13 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count: 0
+1/21/2020 5:28:13 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Rflag: False
+1/21/2020 5:28:13 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculating 
+1/21/2020 5:28:13 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculated 611
+1/21/2020 5:28:13 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, issfolllst calculated 
+1/21/2020 5:28:13 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count == 0 entered
+1/21/2020 5:28:13 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Advance found as: 0
+1/21/2020 5:28:13 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, isIssueRaise: True
+1/21/2020 5:28:13 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Iissfolllst.Count > 0
+1/21/2020 5:28:13 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Issue closed with ID : 80887483-8ed1-4abd-b3d5-db930d3d65e3, category: 2
+1/21/2020 5:28:13 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, AutoPolicyTerminateProcess run
+1/21/2020 5:28:13 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count: 0
+1/21/2020 5:28:13 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Rflag: False
+1/21/2020 5:28:13 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculating 
+1/21/2020 5:28:13 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculated 611
+1/21/2020 5:28:13 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, issfolllst calculated 
+1/21/2020 5:28:13 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count == 0 entered
+1/21/2020 5:28:13 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Advance found as: 0
+1/21/2020 5:28:13 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, isIssueRaise: True
+1/21/2020 5:28:13 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Iissfolllst.Count > 0
+1/21/2020 5:28:13 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Issue closed with ID : 20b21460-4957-44da-b523-befac04caf79, category: 2
+1/21/2020 5:28:13 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, AutoPolicyTerminateProcess run
+1/21/2020 5:28:13 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count: 0
+1/21/2020 5:28:13 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Rflag: False
+1/21/2020 5:28:13 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculating 
+1/21/2020 5:28:13 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculated 611
+1/21/2020 5:28:13 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, issfolllst calculated 
+1/21/2020 5:28:13 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count == 0 entered
+1/21/2020 5:28:13 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Advance found as: 0
+1/21/2020 5:28:13 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, isIssueRaise: True
+1/21/2020 5:28:13 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Iissfolllst.Count > 0
+1/21/2020 5:28:13 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Issue closed with ID : 8f24f297-471e-43ae-98c4-8abc60b45849, category: 2
+1/21/2020 5:28:13 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, AutoPolicyTerminateProcess run
+1/21/2020 5:28:13 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst :{DisplayFollowupIssue={Agency=Total Capital Planning Inc}}{DisplayFollowupIssue={AutoTerminationDate=}}{DisplayFollowupIssue={Client=}}{DisplayFollowupIssue={Content=1}}{DisplayFollowupIssue={CreatedDate=7/21/2019 12:00:00 AM}}{DisplayFollowupIssue={FromDate=1/1/2017 12:00:00 AM}}{DisplayFollowupIssue={Insured=Caitlin Moore}}{DisplayFollowupIssue={InvoiceDate=1/1/2017 12:00:00 AM}}{DisplayFollowupIssue={isDeleted={Boolean={Boolean=False}}}}{DisplayFollowupIssue={IsPMCVariance={Boolean={Boolean=False}}}}{DisplayFollowupIssue={IssueCategoryID={Int32={Int32=1}}}}{DisplayFollowupIssue={IssueId=792b3e86-9f46-4b79-9655-03ae45759d92}}{DisplayFollowupIssue={IssueReasonId={Int32={Int32=1}}}}{DisplayFollowupIssue={IssueResultId={Int32={Int32=4}}}}{DisplayFollowupIssue={IssueStatusId={Int32={Int32=1}}}}{DisplayFollowupIssue={IssueTrackNumber=15163920}}{DisplayFollowupIssue={IsTrackIncomingPercentage={Boolean={Boolean=False}}}}{DisplayFollowupIssue={IsTrackMissingMonth={Boolean={Boolean=True}}}}{DisplayFollowupIssue={IsTrackPayment={Boolean={Boolean=True}}}}{DisplayFollowupIssue={LastModifiedDate=1/21/2020 12:00:00 AM}}{DisplayFollowupIssue={LicenseeId=7094a593-79ec-4c74-b311-1580ddd58ca2}}{DisplayFollowupIssue={ModifiedBy=}}{DisplayFollowupIssue={NextFollowupDate=}}{DisplayFollowupIssue={Payment=}}{DisplayFollowupIssue={Payor=}}{DisplayFollowupIssue={PayorId=00000000-0000-0000-0000-000000000000}}{DisplayFollowupIssue={PolicyId=05059eec-5d01-4860-94bd-2d55a262a14e}}{DisplayFollowupIssue={PolicyIssueNote=}}{DisplayFollowupIssue={PolicyNumber=EMMETT GIBBONS-Child Only}}{DisplayFollowupIssue={PreviousStatusId={Int32={Int32=1}}}}{DisplayFollowupIssue={ToDate=1/31/2017 12:00:00 AM}}{DisplayFollowupIssue={Agency=Total Capital Planning Inc}}{DisplayFollowupIssue={AutoTerminationDate=}}{DisplayFollowupIssue={Client=}}{DisplayFollowupIssue={Content=1}}{DisplayFollowupIssue={CreatedDate=3/9/2019 12:00:00 AM}}{DisplayFollowupIssue={FromDate=1/1/2017 12:00:00 AM}}{DisplayFollowupIssue={Insured=Caitlin Moore}}{DisplayFollowupIssue={InvoiceDate=1/1/2017 12:00:00 AM}}{DisplayFollowupIssue={isDeleted={Boolean={Boolean=False}}}}{DisplayFollowupIssue={IsPMCVariance={Boolean={Boolean=False}}}}{DisplayFollowupIssue={IssueCategoryID={Int32={Int32=1}}}}{DisplayFollowupIssue={IssueId=b0ab2360-7e16-4774-ab0e-099e7884a031}}{DisplayFollowupIssue={IssueReasonId={Int32={Int32=1}}}}{DisplayFollowupIssue={IssueResultId={Int32={Int32=4}}}}{DisplayFollowupIssue={IssueStatusId={Int32={Int32=1}}}}{DisplayFollowupIssue={IssueTrackNumber=14878581}}{DisplayFollowupIssue={IsTrackIncomingPercentage={Boolean={Boolean=False}}}}{DisplayFollowupIssue={IsTrackMissingMonth={Boolean={Boolean=True}}}}{DisplayFollowupIssue={IsTrackPayment={Boolean={Boolean=True}}}}{DisplayFollowupIssue={LastModifiedDate=3/9/2019 12:00:00 AM}}{DisplayFollowupIssue={LicenseeId=7094a593-79ec-4c74-b311-1580ddd58ca2}}{DisplayFollowupIssue={ModifiedBy=}}{DisplayFollowupIssue={NextFollowupDate=}}{DisplayFollowupIssue={Payment=}}{DisplayFollowupIssue={Payor=}}{DisplayFollowupIssue={PayorId=00000000-0000-0000-0000-000000000000}}{DisplayFollowupIssue={PolicyId=05059eec-5d01-4860-94bd-2d55a262a14e}}{DisplayFollowupIssue={PolicyIssueNote=}}{DisplayFollowupIssue={PolicyNumber=EMMETT GIBBONS-Child Only}}{DisplayFollowupIssue={PreviousStatusId=}}{DisplayFollowupIssue={ToDate=1/31/2017 12:00:00 AM}}{DisplayFollowupIssue={Agency=Total Capital Planning Inc}}{DisplayFollowupIssue={AutoTerminationDate=}}{DisplayFollowupIssue={Client=}}{DisplayFollowupIssue={Content=1}}{DisplayFollowupIssue={CreatedDate=12/30/2017 12:00:00 AM}}{DisplayFollowupIssue={FromDate=1/1/2017 12:00:00 AM}}{DisplayFollowupIssue={Insured=Caitlin Moore}}{DisplayFollowupIssue={InvoiceDate=1/1/2017 12:00:00 AM}}{DisplayFollowupIssue={isDeleted={Boolean={Boolean=False}}}}{DisplayFollowupIssue={IsPMCVariance={Boolean={Boolean=False}}}}{DisplayFollowupIssue={IssueCategoryID={Int32={Int32=1}}}}{DisplayFollowupIssue={IssueId=cfd2961d-922f-4d78-83ae-150fe7375b49}}{DisplayFollowupIssue={IssueReasonId={Int32={Int32=1}}}}{DisplayFollowupIssue={IssueResultId={Int32={Int32=4}}}}{DisplayFollowupIssue={IssueStatusId={Int32={Int32=1}}}}{DisplayFollowupIssue={IssueTrackNumber=14160072}}{DisplayFollowupIssue={IsTrackIncomingPercentage={Boolean={Boolean=False}}}}{DisplayFollowupIssue={IsTrackMissingMonth={Boolean={Boolean=True}}}}{DisplayFollowupIssue={IsTrackPayment={Boolean={Boolean=True}}}}{DisplayFollowupIssue={LastModifiedDate=12/30/2017 12:00:00 AM}}{DisplayFollowupIssue={LicenseeId=7094a593-79ec-4c74-b311-1580ddd58ca2}}{DisplayFollowupIssue={ModifiedBy=}}{DisplayFollowupIssue={NextFollowupDate=}}{DisplayFollowupIssue={Payment=}}{DisplayFollowupIssue={Payor=}}{DisplayFollowupIssue={PayorId=00000000-0000-0000-0000-000000000000}}{DisplayFollowupIssue={PolicyId=05059eec-5d01-4860-94bd-2d55a262a14e}}{DisplayFollowupIssue={PolicyIssueNote=}}{DisplayFollowupIssue={PolicyNumber=EMMETT GIBBONS-Child Only}}{DisplayFollowupIssue={PreviousStatusId=}}{DisplayFollowupIssue={ToDate=1/31/2017 12:00:00 AM}}{DisplayFollowupIssue={Agency=Total Capital Planning Inc}}{DisplayFollowupIssue={AutoTerminationDate=}}{DisplayFollowupIssue={Client=}}{DisplayFollowupIssue={Content=1}}{DisplayFollowupIssue={CreatedDate=10/5/2019 12:00:00 AM}}{DisplayFollowupIssue={FromDate=1/1/2017 12:00:00 AM}}{DisplayFollowupIssue={Insured=Caitlin Moore}}{DisplayFollowupIssue={InvoiceDate=1/1/2017 12:00:00 AM}}{DisplayFollowupIssue={isDeleted={Boolean={Boolean=False}}}}{DisplayFollowupIssue={IsPMCVariance={Boolean={Boolean=False}}}}{DisplayFollowupIssue={IssueCategoryID={Int32={Int32=1}}}}{DisplayFollowupIssue={IssueId=98a2b5ee-fd81-4cfc-be9d-1d52a296c320}}{DisplayFollowupIssue={IssueReasonId={Int32={Int32=1}}}}{DisplayFollowupIssue={IssueResultId={Int32={Int32=4}}}}{DisplayFollowupIssue={IssueStatusId={Int32={Int32=1}}}}{DisplayFollowupIssue={IssueTrackNumber=16005199}}{DisplayFollowupIssue={IsTrackIncomingPercentage={Boolean={Boolean=False}}}}{DisplayFollowupIssue={IsTrackMissingMonth={Boolean={Boolean=True}}}}{DisplayFollowupIssue={IsTrackPayment={Boolean={Boolean=True}}}}{DisplayFollowupIssue={LastModifiedDate=10/5/2019 12:00:00 AM}}{DisplayFollowupIssue={LicenseeId=7094a593-79ec-4c74-b311-1580ddd58ca2}}{DisplayFollowupIssue={ModifiedBy=}}{DisplayFollowupIssue={NextFollowupDate=}}{DisplayFollowupIssue={Payment=}}{DisplayFollowupIssue={Payor=}}{DisplayFollowupIssue={PayorId=00000000-0000-0000-0000-000000000000}}{DisplayFollowupIssue={PolicyId=05059eec-5d01-4860-94bd-2d55a262a14e}}{DisplayFollowupIssue={PolicyIssueNote=}}{DisplayFollowupIssue={PolicyNumber=EMMETT GIBBONS-Child Only}}{DisplayFollowupIssue={PreviousStatusId=}}{DisplayFollowupIssue={ToDate=1/31/2017 12:00:00 AM}}{DisplayFollowupIssue={Agency=Total Capital Planning Inc}}{DisplayFollowupIssue={AutoTerminationDate=}}{DisplayFollowupIssue={Client=}}{DisplayFollowupIssue={Content=1}}{DisplayFollowupIssue={CreatedDate=11/2/2018 12:00:00 AM}}{DisplayFollowupIssue={FromDate=1/1/2017 12:00:00 AM}}{DisplayFollowupIssue={Insured=Caitlin Moore}}{DisplayFollowupIssue={InvoiceDate=1/1/2017 12:00:00 AM}}{DisplayFollowupIssue={isDeleted={Boolean={Boolean=False}}}}{DisplayFollowupIssue={IsPMCVariance={Boolean={Boolean=False}}}}{DisplayFollowupIssue={IssueCategoryID={Int32={Int32=1}}}}{DisplayFollowupIssue={IssueId=d24a9e01-2213-455d-9600-35e9c54579ef}}{DisplayFollowupIssue={IssueReasonId={Int32={Int32=1}}}}{DisplayFollowupIssue={IssueResultId={Int32={Int32=4}}}}{DisplayFollowupIssue={IssueStatusId={Int32={Int32=1}}}}{DisplayFollowupIssue={IssueTrackNumber=14613309}}{DisplayFollowupIssue={IsTrackIncomingPercentage={Boolean={Boolean=False}}}}{DisplayFollowupIssue={IsTrackMissingMonth={Boolean={Boolean=True}}}}{DisplayFollowupIssue={IsTrackPayment={Boolean={Boolean=True}}}}{DisplayFollowupIssue={LastModifiedDate=11/2/2018 12:00:00 AM}}{DisplayFollowupIssue={LicenseeId=7094a593-79ec-4c74-b311-1580ddd58ca2}}{DisplayFollowupIssue={ModifiedBy=}}{DisplayFollowupIssue={NextFollowupDate=}}{DisplayFollowupIssue={Payment=}}{DisplayFollowupIssue={Payor=}}{DisplayFollowupIssue={PayorId=00000000-0000-0000-0000-000000000000}}{DisplayFollowupIssue={PolicyId=05059eec-5d01-4860-94bd-2d55a262a14e}}{DisplayFollowupIssue={PolicyIssueNote=}}{DisplayFollowupIssue={PolicyNumber=EMMETT GIBBONS-Child Only}}{DisplayFollowupIssue={PreviousStatusId=}}{DisplayFollowupIssue={ToDate=1/31/2017 12:00:00 AM}}{DisplayFollowupIssue={Agency=Total Capital Planning Inc}}{DisplayFollowupIssue={AutoTerminationDate=}}{DisplayFollowupIssue={Client=}}{DisplayFollowupIssue={Content=1}}{DisplayFollowupIssue={CreatedDate=9/13/2019 12:00:00 AM}}{DisplayFollowupIssue={FromDate=1/1/2017 12:00:00 AM}}{DisplayFollowupIssue={Insured=Caitlin Moore}}{DisplayFollowupIssue={InvoiceDate=1/1/2017 12:00:00 AM}}{DisplayFollowupIssue={isDeleted={Boolean={Boolean=False}}}}{DisplayFollowupIssue={IsPMCVariance={Boolean={Boolean=False}}}}{DisplayFollowupIssue={IssueCategoryID={Int32={Int32=1}}}}{DisplayFollowupIssue={IssueId=be2d2d88-ce2a-43dc-ab85-3d48fc556aff}}{DisplayFollowupIssue={IssueReasonId={Int32={Int32=1}}}}{DisplayFollowupIssue={IssueResultId={Int32={Int32=4}}}}{DisplayFollowupIssue={IssueStatusId={Int32={Int32=1}}}}{DisplayFollowupIssue={IssueTrackNumber=15782691}}{DisplayFollowupIssue={IsTrackIncomingPercentage={Boolean={Boolean=False}}}}{DisplayFollowupIssue={IsTrackMissingMonth={Boolean={Boolean=True}}}}{DisplayFollowupIssue={IsTrackPayment={Boolean={Boolean=True}}}}{DisplayFollowupIssue={LastModifiedDate=9/13/2019 12:00:00 AM}}{DisplayFollowupIssue={LicenseeId=7094a593-79ec-4c74-b311-1580ddd58ca2}}{DisplayFollowupIssue={ModifiedBy=}}{DisplayFollowupIssue={NextFollowupDate=}}{DisplayFollowupIssue={Payment=}}{DisplayFollowupIssue={Payor=}}{DisplayFollowupIssue={PayorId=00000000-0000-0000-0000-000000000000}}{DisplayFollowupIssue={PolicyId=05059eec-5d01-4860-94bd-2d55a262a14e}}{DisplayFollowupIssue={PolicyIssueNote=}}{DisplayFollowupIssue={PolicyNumber=EMMETT GIBBONS-Child Only}}{DisplayFollowupIssue={PreviousStatusId=}}{DisplayFollowupIssue={ToDate=1/31/2017 12:00:00 AM}}
+1/21/2020 5:28:13 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, IsTrackIncomingPercentage false
+1/21/2020 5:28:13 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, LastMissIssueDate updated 
+1/21/2020 5:28:13 PM - Policy ID starting: 7153d852-b022-4219-b50b-0568db277b90
+1/21/2020 5:28:13 PM - Follow up running  for Policy number: 
+1/21/2020 5:28:15 PM - Details fetching for policyID: 05059eec-5d01-4860-94bd-2d55a262a14e
+1/21/2020 5:28:18 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _MasterPolicyMode : Monthly
+1/21/2020 5:28:19 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Last follow up runs updated
+1/21/2020 5:28:21 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupDate range found as: {FromDate=1/1/2017 12:00:00 AM}{Paymentmode=Monthly}{ToDate=10/31/2019 12:00:00 AM}
+1/21/2020 5:28:26 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, IsTrackPayment true 
+1/21/2020 5:28:29 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, DateRangeForMissingLst calculated successfully
+1/21/2020 5:28:44 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst count: 611
+1/21/2020 5:28:48 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst count 2: 611
+1/21/2020 5:29:13 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Processing starts for  _DateRangeForMissingLst
+1/21/2020 5:29:18 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count: 0
+1/21/2020 5:29:18 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Rflag: False
+1/21/2020 5:29:19 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculating 
+1/21/2020 5:29:20 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculated 611
+1/21/2020 5:29:28 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, issfolllst calculated 
+1/21/2020 5:29:30 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count == 0 entered
+1/21/2020 5:29:32 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Advance found as: 0
+1/21/2020 5:29:34 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, isIssueRaise: True
+1/21/2020 5:29:36 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Iissfolllst.Count > 0
+1/21/2020 5:29:51 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Issue closed with ID : 792b3e86-9f46-4b79-9655-03ae45759d92, category: 2
+1/21/2020 5:30:25 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, AutoPolicyTerminateProcess run
+1/21/2020 5:30:29 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, _PolicyPaymentEntriesFormissing.Count: 0
+1/21/2020 5:30:29 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, Rflag: False
+1/21/2020 5:30:30 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculating 
+1/21/2020 5:30:33 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, FollowupIssueLst calculated 611
+1/21/2020 5:30:36 PM - PolicyID: 05059eec-5d01-4860-94bd-2d55a262a14e, issfolllst calculated 

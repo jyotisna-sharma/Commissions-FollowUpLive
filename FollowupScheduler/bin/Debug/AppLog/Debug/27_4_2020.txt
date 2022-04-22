@@ -1,0 +1,42 @@
+4/27/2020 6:24:25 AM - *****************FollowUpService - FollowUpProc Starts**************
+4/27/2020 6:24:25 AM - Please wait ..fetching policy list from database
+4/27/2020 6:24:25 AM - Policy list found from database, count: 1
+4/27/2020 6:24:25 AM - Policy ID starting: 5f27fa6b-3547-4ccb-bbb9-02893bb8d4f4
+4/27/2020 6:24:25 AM - Follow up running  for Policy number: LD6300
+4/27/2020 6:24:36 AM - Details fetching for policyID: 5f1823c5-5e6a-4983-96c1-e1ba48c03a98
+4/27/2020 6:24:49 AM - PolicyID: 5f1823c5-5e6a-4983-96c1-e1ba48c03a98, _MasterPolicyMode : Annually
+4/27/2020 6:25:00 AM - PolicyID: 5f1823c5-5e6a-4983-96c1-e1ba48c03a98, Last follow up runs updated
+4/27/2020 6:34:44 AM - PolicyID: 5f1823c5-5e6a-4983-96c1-e1ba48c03a98, FollowupDate range found as: {FromDate=1/1/2018 12:00:00 AM}{Paymentmode=Yearly}{ToDate=1/31/2020 12:00:00 AM}
+4/27/2020 6:34:50 AM - PolicyID: 5f1823c5-5e6a-4983-96c1-e1ba48c03a98, IsTrackPayment true 
+4/27/2020 6:34:51 AM - PolicyID: 5f1823c5-5e6a-4983-96c1-e1ba48c03a98, DateRangeForMissingLst calculated successfully
+4/27/2020 6:34:53 AM - PolicyID: 5f1823c5-5e6a-4983-96c1-e1ba48c03a98, FollowupIssueLst count: 1
+4/27/2020 6:34:58 AM - PolicyID: 5f1823c5-5e6a-4983-96c1-e1ba48c03a98, FollowupIssueLst count 2: 1
+4/27/2020 6:34:58 AM - PolicyID: 5f1823c5-5e6a-4983-96c1-e1ba48c03a98, Processing starts for  _DateRangeForMissingLst
+4/27/2020 6:35:02 AM - PolicyID: 5f1823c5-5e6a-4983-96c1-e1ba48c03a98, _PolicyPaymentEntriesFormissing.Count: 1
+4/27/2020 6:35:04 AM - PolicyID: 5f1823c5-5e6a-4983-96c1-e1ba48c03a98, Rflag: False
+4/27/2020 6:35:05 AM - PolicyID: 5f1823c5-5e6a-4983-96c1-e1ba48c03a98, FollowupIssueLst calculating 
+4/27/2020 6:35:06 AM - PolicyID: 5f1823c5-5e6a-4983-96c1-e1ba48c03a98, FollowupIssueLst calculated 1
+4/27/2020 6:35:08 AM - PolicyID: 5f1823c5-5e6a-4983-96c1-e1ba48c03a98, issfolllst calculated 
+4/27/2020 6:35:14 AM - PolicyID: 5f1823c5-5e6a-4983-96c1-e1ba48c03a98, PolicyPaymentEntries > 0 
+4/27/2020 6:35:18 AM - PolicyID: 5f1823c5-5e6a-4983-96c1-e1ba48c03a98, processing for PMC, firstDate: 1/1/2018 12:00:00 AM, LastDate: 12/31/2018 12:00:00 AM
+4/27/2020 6:35:18 AM - PolicyID: 5f1823c5-5e6a-4983-96c1-e1ba48c03a98, flagvarience false, removing issue
+4/27/2020 6:35:28 AM - PolicyID: 5f1823c5-5e6a-4983-96c1-e1ba48c03a98, _PolicyPaymentEntriesFormissing.Count: 0
+4/27/2020 6:35:29 AM - PolicyID: 5f1823c5-5e6a-4983-96c1-e1ba48c03a98, Rflag: False
+4/27/2020 6:35:29 AM - PolicyID: 5f1823c5-5e6a-4983-96c1-e1ba48c03a98, FollowupIssueLst calculating 
+4/27/2020 6:35:31 AM - PolicyID: 5f1823c5-5e6a-4983-96c1-e1ba48c03a98, FollowupIssueLst calculated 1
+4/27/2020 6:35:34 AM - PolicyID: 5f1823c5-5e6a-4983-96c1-e1ba48c03a98, issfolllst calculated 
+4/27/2020 6:35:36 AM - PolicyID: 5f1823c5-5e6a-4983-96c1-e1ba48c03a98, _PolicyPaymentEntriesFormissing.Count == 0 entered
+4/27/2020 6:35:39 AM - PolicyID: 5f1823c5-5e6a-4983-96c1-e1ba48c03a98, Advance found as: 
+4/27/2020 6:35:39 AM - PolicyID: 5f1823c5-5e6a-4983-96c1-e1ba48c03a98, isIssueRaise: True
+4/27/2020 6:35:39 AM - PolicyID: 5f1823c5-5e6a-4983-96c1-e1ba48c03a98, Iissfolllst.Count > 0
+4/27/2020 6:35:43 AM - PolicyID: 5f1823c5-5e6a-4983-96c1-e1ba48c03a98, Issue closed with ID : 2deb824f-f55c-45c8-aeea-83b50f2653fe, category: 2
+4/27/2020 6:35:53 AM - PolicyID: 5f1823c5-5e6a-4983-96c1-e1ba48c03a98, AutoPolicyTerminateProcess run
+4/27/2020 6:35:59 AM - PolicyID: 5f1823c5-5e6a-4983-96c1-e1ba48c03a98, _PolicyPaymentEntriesFormissing.Count: 0
+4/27/2020 6:35:59 AM - PolicyID: 5f1823c5-5e6a-4983-96c1-e1ba48c03a98, Rflag: False
+4/27/2020 6:36:00 AM - PolicyID: 5f1823c5-5e6a-4983-96c1-e1ba48c03a98, FollowupIssueLst calculating 
+4/27/2020 6:36:01 AM - PolicyID: 5f1823c5-5e6a-4983-96c1-e1ba48c03a98, FollowupIssueLst calculated 1
+4/27/2020 6:36:04 AM - PolicyID: 5f1823c5-5e6a-4983-96c1-e1ba48c03a98, issfolllst calculated 
+4/27/2020 6:36:07 AM - PolicyID: 5f1823c5-5e6a-4983-96c1-e1ba48c03a98, _PolicyPaymentEntriesFormissing.Count == 0 entered
+4/27/2020 6:36:08 AM - PolicyID: 5f1823c5-5e6a-4983-96c1-e1ba48c03a98, Advance found as: 
+4/27/2020 6:36:08 AM - PolicyID: 5f1823c5-5e6a-4983-96c1-e1ba48c03a98, isIssueRaise: True
+4/27/2020 6:36:13 AM - PolicyID: 5f1823c5-5e6a-4983-96c1-e1ba48c03a98, Iissfolllst.Count = 0

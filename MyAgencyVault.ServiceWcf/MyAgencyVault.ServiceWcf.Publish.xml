@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="D:\Publish Site" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/MyAgencyVault.EmailFax.pdb" publishTime="01/16/2017 16:42:43" />
+    <file relUrl="bin/ActionLogger.dll" publishTime="01/16/2017 16:42:34" />
+    <file relUrl="bin/MyAgencyVault.DataAccessLayer.dll" publishTime="01/16/2017 16:42:46" />
+    <file relUrl="bin/MyAgencyVault.BusinessLibrary.pdb" publishTime="01/16/2017 16:42:48" />
+    <file relUrl="bin/MyAgencyVault.WcfService.dll" publishTime="01/16/2017 16:42:48" />
+    <file relUrl="MavService.svc" publishTime="01/11/2017 11:35:11" />
+    <file relUrl="bin/MyAgencyVault.DataAccessLayer.pdb" publishTime="01/16/2017 16:42:46" />
+    <file relUrl="bin/WcfHttpCompressionEnabler.dll" publishTime="05/07/2014 13:13:54" />
+    <file relUrl="bin/MyAgencyVault.BusinessLibrary.dll" publishTime="01/16/2017 16:42:48" />
+    <file relUrl="bin/MyAgencyVault.EmailFax.dll" publishTime="01/16/2017 16:42:43" />
+    <file relUrl="bin/WcfHttpCompressionEnabler.pdb" publishTime="05/07/2014 13:13:54" />
+    <file relUrl="Web.config" publishTime="01/16/2017 16:42:48" />
+    <file relUrl="bin/ActionLogger.pdb" publishTime="01/16/2017 16:42:34" />
+    <file relUrl="bin/MyAgencyVault.WcfService.pdb" publishTime="01/16/2017 16:42:48" />
+  </publishProfile>
+</publishData>

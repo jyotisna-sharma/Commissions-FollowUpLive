@@ -1,0 +1,43 @@
+4/21/2020 3:09:57 PM - *****************FollowUpService - FollowUpProc Starts**************
+4/21/2020 3:09:57 PM - Please wait ..fetching policy list from database
+4/21/2020 3:09:58 PM - Policy list found from database, count: 1
+4/21/2020 3:09:58 PM - Policy ID starting: 5f27fa6b-3547-4ccb-bbb9-02893bb8d4f4
+4/21/2020 3:09:58 PM - Follow up running  for Policy number: LD6300
+4/21/2020 3:10:37 PM - *****************FollowUpService - FollowUpProc Starts**************
+4/21/2020 3:10:37 PM - Please wait ..fetching policy list from database
+4/21/2020 3:10:38 PM - Policy list found from database, count: 1
+4/21/2020 3:10:38 PM - Policy ID starting: 5f27fa6b-3547-4ccb-bbb9-02893bb8d4f4
+4/21/2020 3:10:38 PM - Follow up running  for Policy number: LD6300
+4/21/2020 3:10:47 PM - Details fetching for policyID: d7ee5307-73b3-426e-8117-632d6c80e4ed
+4/21/2020 3:10:56 PM - PolicyID: d7ee5307-73b3-426e-8117-632d6c80e4ed, _MasterPolicyMode : Monthly
+4/21/2020 3:10:57 PM - PolicyID: d7ee5307-73b3-426e-8117-632d6c80e4ed, Last follow up runs updated
+4/21/2020 3:11:31 PM - PolicyID: d7ee5307-73b3-426e-8117-632d6c80e4ed, FollowupDate range found as: {FromDate=4/1/2019 12:00:00 AM}{Paymentmode=Monthly}{ToDate=1/31/2020 12:00:00 AM}
+4/21/2020 3:11:32 PM - PolicyID: d7ee5307-73b3-426e-8117-632d6c80e4ed, IsTrackPayment true 
+4/21/2020 3:11:32 PM - PolicyID: d7ee5307-73b3-426e-8117-632d6c80e4ed, DateRangeForMissingLst calculated successfully
+4/21/2020 3:11:32 PM - PolicyID: d7ee5307-73b3-426e-8117-632d6c80e4ed, FollowupIssueLst count: 0
+4/21/2020 3:11:32 PM - PolicyID: d7ee5307-73b3-426e-8117-632d6c80e4ed, FollowupIssueLst count 2: 0
+4/21/2020 3:11:32 PM - PolicyID: d7ee5307-73b3-426e-8117-632d6c80e4ed, Processing starts for  _DateRangeForMissingLst
+4/21/2020 3:11:37 PM - PolicyID: d7ee5307-73b3-426e-8117-632d6c80e4ed, _PolicyPaymentEntriesFormissing.Count: 1
+4/21/2020 3:11:37 PM - PolicyID: d7ee5307-73b3-426e-8117-632d6c80e4ed, Rflag: False
+4/21/2020 3:11:37 PM - PolicyID: d7ee5307-73b3-426e-8117-632d6c80e4ed, FollowupIssueLst calculating 
+4/21/2020 3:11:37 PM - PolicyID: d7ee5307-73b3-426e-8117-632d6c80e4ed, FollowupIssueLst calculated 0
+4/21/2020 3:11:37 PM - PolicyID: d7ee5307-73b3-426e-8117-632d6c80e4ed, issfolllst calculated 
+4/21/2020 3:11:41 PM - PolicyID: d7ee5307-73b3-426e-8117-632d6c80e4ed, PolicyPaymentEntries > 0 
+4/21/2020 3:11:47 PM - PolicyID: d7ee5307-73b3-426e-8117-632d6c80e4ed, processing for PMC, firstDate: 4/1/2019 12:00:00 AM, LastDate: 4/30/2019 12:00:00 AM
+4/21/2020 3:11:48 PM - PolicyID: d7ee5307-73b3-426e-8117-632d6c80e4ed, flagvarience true, adding issue
+4/21/2020 3:11:53 PM - PolicyID: d7ee5307-73b3-426e-8117-632d6c80e4ed, _PolicyPaymentEntriesFormissing.Count: 1
+4/21/2020 3:11:53 PM - PolicyID: d7ee5307-73b3-426e-8117-632d6c80e4ed, Rflag: False
+4/21/2020 3:11:53 PM - PolicyID: d7ee5307-73b3-426e-8117-632d6c80e4ed, FollowupIssueLst calculating 
+4/21/2020 3:11:54 PM - PolicyID: d7ee5307-73b3-426e-8117-632d6c80e4ed, FollowupIssueLst calculated 1
+4/21/2020 3:11:54 PM - PolicyID: d7ee5307-73b3-426e-8117-632d6c80e4ed, issfolllst calculated 
+4/21/2020 3:11:56 PM - PolicyID: d7ee5307-73b3-426e-8117-632d6c80e4ed, PolicyPaymentEntries > 0 
+4/21/2020 3:11:59 PM - PolicyID: d7ee5307-73b3-426e-8117-632d6c80e4ed, processing for PMC, firstDate: 5/1/2019 12:00:00 AM, LastDate: 5/31/2019 12:00:00 AM
+4/21/2020 3:12:00 PM - PolicyID: d7ee5307-73b3-426e-8117-632d6c80e4ed, flagvarience true, adding issue
+4/21/2020 3:12:04 PM - PolicyID: d7ee5307-73b3-426e-8117-632d6c80e4ed, _PolicyPaymentEntriesFormissing.Count: 1
+4/21/2020 3:12:04 PM - PolicyID: d7ee5307-73b3-426e-8117-632d6c80e4ed, Rflag: False
+4/21/2020 3:12:04 PM - PolicyID: d7ee5307-73b3-426e-8117-632d6c80e4ed, FollowupIssueLst calculating 
+4/21/2020 3:12:05 PM - PolicyID: d7ee5307-73b3-426e-8117-632d6c80e4ed, FollowupIssueLst calculated 2
+4/21/2020 3:12:05 PM - PolicyID: d7ee5307-73b3-426e-8117-632d6c80e4ed, issfolllst calculated 
+4/21/2020 3:12:06 PM - PolicyID: d7ee5307-73b3-426e-8117-632d6c80e4ed, PolicyPaymentEntries > 0 
+4/21/2020 3:12:16 PM - PolicyID: d7ee5307-73b3-426e-8117-632d6c80e4ed, processing for PMC, firstDate: 6/1/2019 12:00:00 AM, LastDate: 6/30/2019 12:00:00 AM
+4/21/2020 3:12:25 PM - PolicyID: d7ee5307-73b3-426e-8117-632d6c80e4ed, flagvarience true, adding issue

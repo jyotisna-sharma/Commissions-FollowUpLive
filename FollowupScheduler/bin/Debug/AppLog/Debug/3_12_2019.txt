@@ -1,0 +1,491 @@
+12/3/2019 3:01:58 PM - *****************FollowUpService - FollowUpProc Starts**************
+12/3/2019 3:01:58 PM - Please wait ..fetching policy list from database
+12/3/2019 3:01:58 PM - Policy list found from database, count: 1
+12/3/2019 3:01:58 PM - Policy ID starting: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d
+12/3/2019 3:01:58 PM - Follow up running  for Policy number: testSpeed
+12/3/2019 3:02:00 PM - Details fetching for policyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d
+12/3/2019 3:02:04 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, _MasterPolicyMode : Monthly
+12/3/2019 3:02:04 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Last follow up runs updated
+12/3/2019 3:02:05 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, FollowupDate range found as: {FromDate=7/1/2019 12:00:00 AM}{Paymentmode=Monthly}{ToDate=9/30/2019 12:00:00 AM}
+12/3/2019 3:02:06 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, IsTrackPayment true 
+12/3/2019 3:02:07 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, DateRangeForMissingLst calculated successfully
+12/3/2019 3:02:07 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, FollowupIssueLst count: 0
+12/3/2019 3:02:07 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Processing starts for  _DateRangeForMissingLst
+12/3/2019 3:02:09 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, _PolicyPaymentEntriesFormissing.Count: 1
+12/3/2019 3:02:09 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Rflag: False
+12/3/2019 3:02:09 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, FollowupIssueLst calculating 
+12/3/2019 3:02:09 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, FollowupIssueLst calculated 
+12/3/2019 3:02:09 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, issfolllst calculated 
+12/3/2019 3:02:14 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, PolicyPaymentEntries > 0 
+12/3/2019 3:02:17 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, processing for PMC, firstDate: 7/1/2019 12:00:00 AM, LastDate: 7/31/2019 12:00:00 AM
+12/3/2019 3:02:21 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, flagvarience false, removing issue
+12/3/2019 3:02:21 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, _PolicyPaymentEntriesFormissing.Count: 0
+12/3/2019 3:02:21 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Rflag: False
+12/3/2019 3:02:21 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, FollowupIssueLst calculating 
+12/3/2019 3:02:21 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, FollowupIssueLst calculated 
+12/3/2019 3:02:21 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, issfolllst calculated 
+12/3/2019 3:02:23 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, _PolicyPaymentEntriesFormissing.Count == 0 entered
+12/3/2019 3:02:25 PM - PolicyID: 1bc0fce1-e10b-4247-aaec-e30623dcfef8, Advance found as: 0
+12/3/2019 3:02:25 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, isIssueRaise: True
+12/3/2019 3:02:44 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Iissfolllst.Count = 0
+12/3/2019 3:02:44 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Issue raised for MissInv (2)
+12/3/2019 3:02:44 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, AutoPolicyTerminateProcess run
+12/3/2019 3:02:45 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, _PolicyPaymentEntriesFormissing.Count: 0
+12/3/2019 3:02:45 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Rflag: False
+12/3/2019 3:02:45 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, FollowupIssueLst calculating 
+12/3/2019 3:02:45 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, FollowupIssueLst calculated 
+12/3/2019 3:02:45 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, issfolllst calculated 
+12/3/2019 3:02:45 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, _PolicyPaymentEntriesFormissing.Count == 0 entered
+12/3/2019 3:02:45 PM - PolicyID: 1bc0fce1-e10b-4247-aaec-e30623dcfef8, Advance found as: 0
+12/3/2019 3:02:45 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, isIssueRaise: True
+12/3/2019 3:02:45 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Iissfolllst.Count = 0
+12/3/2019 3:02:45 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Issue raised for MissInv (2)
+12/3/2019 3:02:45 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, AutoPolicyTerminateProcess run
+12/3/2019 3:02:45 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, FollowupIssueLst.Count :1
+12/3/2019 3:02:45 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, IsTrackMissingMonth false
+12/3/2019 3:02:51 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, _AllPaymentEntriesOnPolicyFormissing processing
+12/3/2019 3:03:50 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, flagvarience true
+12/3/2019 3:03:50 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, LastMissIssueDate updated 
+12/3/2019 3:03:50 PM - *****************FollowUpService - FollowUpProc Completed**************
+12/3/2019 3:05:25 PM - *****************FollowUpService - FollowUpProc Starts**************
+12/3/2019 3:05:25 PM - Please wait ..fetching policy list from database
+12/3/2019 3:05:25 PM - Policy list found from database, count: 1
+12/3/2019 3:05:25 PM - Policy ID starting: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d
+12/3/2019 3:05:25 PM - Follow up running  for Policy number: testSpeed
+12/3/2019 3:05:28 PM - Details fetching for policyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d
+12/3/2019 3:05:28 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, _MasterPolicyMode : Monthly
+12/3/2019 3:05:28 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Last follow up runs updated
+12/3/2019 3:05:28 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, FollowupDate range found as: {FromDate=7/1/2019 12:00:00 AM}{Paymentmode=Monthly}{ToDate=9/30/2019 12:00:00 AM}
+12/3/2019 3:05:29 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, IsTrackPayment true 
+12/3/2019 3:05:30 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, DateRangeForMissingLst calculated successfully
+12/3/2019 3:05:30 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, FollowupIssueLst count: 0
+12/3/2019 3:05:30 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Processing starts for  _DateRangeForMissingLst
+12/3/2019 3:05:31 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, _PolicyPaymentEntriesFormissing.Count: 1
+12/3/2019 3:05:31 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Rflag: False
+12/3/2019 3:05:31 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, FollowupIssueLst calculating 
+12/3/2019 3:05:31 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, FollowupIssueLst calculated 
+12/3/2019 3:05:31 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, issfolllst calculated 
+12/3/2019 3:05:34 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, PolicyPaymentEntries > 0 
+12/3/2019 3:05:34 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, processing for PMC, firstDate: 7/1/2019 12:00:00 AM, LastDate: 7/31/2019 12:00:00 AM
+12/3/2019 3:05:39 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, flagvarience false, removing issue
+12/3/2019 3:05:39 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, _PolicyPaymentEntriesFormissing.Count: 0
+12/3/2019 3:05:39 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Rflag: False
+12/3/2019 3:05:39 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, FollowupIssueLst calculating 
+12/3/2019 3:05:39 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, FollowupIssueLst calculated 
+12/3/2019 3:05:39 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, issfolllst calculated 
+12/3/2019 3:05:41 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, _PolicyPaymentEntriesFormissing.Count == 0 entered
+12/3/2019 3:05:41 PM - PolicyID: 1bc0fce1-e10b-4247-aaec-e30623dcfef8, Advance found as: 0
+12/3/2019 3:05:41 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, isIssueRaise: True
+12/3/2019 3:05:41 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Iissfolllst.Count = 0
+12/3/2019 3:05:41 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Issue raised for MissInv (2)
+12/3/2019 3:05:41 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, AutoPolicyTerminateProcess run
+12/3/2019 3:05:41 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, _PolicyPaymentEntriesFormissing.Count: 0
+12/3/2019 3:05:41 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Rflag: False
+12/3/2019 3:05:41 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, FollowupIssueLst calculating 
+12/3/2019 3:05:41 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, FollowupIssueLst calculated 
+12/3/2019 3:05:41 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, issfolllst calculated 
+12/3/2019 3:05:43 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, _PolicyPaymentEntriesFormissing.Count == 0 entered
+12/3/2019 3:05:43 PM - PolicyID: 1bc0fce1-e10b-4247-aaec-e30623dcfef8, Advance found as: 0
+12/3/2019 3:05:43 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, isIssueRaise: True
+12/3/2019 3:05:43 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Iissfolllst.Count = 0
+12/3/2019 3:05:43 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Issue raised for MissInv (2)
+12/3/2019 3:05:43 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, AutoPolicyTerminateProcess run
+12/3/2019 3:05:46 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, _AllPaymentEntriesOnPolicyFormissing processing
+12/3/2019 3:05:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, flagvarience false
+12/3/2019 3:05:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, LastMissIssueDate updated 
+12/3/2019 3:05:59 PM - *****************FollowUpService - FollowUpProc Completed**************
+12/3/2019 3:10:22 PM - *****************FollowUpService - FollowUpProc Starts**************
+12/3/2019 3:10:22 PM - Please wait ..fetching policy list from database
+12/3/2019 3:10:22 PM - Policy list found from database, count: 1
+12/3/2019 3:10:22 PM - Policy ID starting: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d
+12/3/2019 3:10:22 PM - Follow up running  for Policy number: testSpeed
+12/3/2019 3:10:23 PM - Details fetching for policyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d
+12/3/2019 3:10:24 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, _MasterPolicyMode : Monthly
+12/3/2019 3:10:24 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Last follow up runs updated
+12/3/2019 3:10:25 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, FollowupDate range found as: {FromDate=7/1/2019 12:00:00 AM}{Paymentmode=Monthly}{ToDate=9/30/2019 12:00:00 AM}
+12/3/2019 3:10:26 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, IsTrackPayment true 
+12/3/2019 3:10:27 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, DateRangeForMissingLst calculated successfully
+12/3/2019 3:10:27 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, FollowupIssueLst count: 0
+12/3/2019 3:10:27 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Processing starts for  _DateRangeForMissingLst
+12/3/2019 3:10:28 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, _PolicyPaymentEntriesFormissing.Count: 1
+12/3/2019 3:10:28 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Rflag: False
+12/3/2019 3:10:28 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, FollowupIssueLst calculating 
+12/3/2019 3:10:28 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, FollowupIssueLst calculated 
+12/3/2019 3:10:28 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, issfolllst calculated 
+12/3/2019 3:10:29 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, PolicyPaymentEntries > 0 
+12/3/2019 3:10:29 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, processing for PMC, firstDate: 7/1/2019 12:00:00 AM, LastDate: 7/31/2019 12:00:00 AM
+12/3/2019 3:10:29 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, flagvarience false, removing issue
+12/3/2019 3:10:29 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, _PolicyPaymentEntriesFormissing.Count: 0
+12/3/2019 3:10:29 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Rflag: False
+12/3/2019 3:10:29 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, FollowupIssueLst calculating 
+12/3/2019 3:10:29 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, FollowupIssueLst calculated 
+12/3/2019 3:10:29 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, issfolllst calculated 
+12/3/2019 3:10:30 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, _PolicyPaymentEntriesFormissing.Count == 0 entered
+12/3/2019 3:10:30 PM - PolicyID: 1bc0fce1-e10b-4247-aaec-e30623dcfef8, Advance found as: 0
+12/3/2019 3:10:30 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, isIssueRaise: True
+12/3/2019 3:10:30 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Iissfolllst.Count = 0
+12/3/2019 3:10:30 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Issue raised for MissInv (2)
+12/3/2019 3:10:30 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, AutoPolicyTerminateProcess run
+12/3/2019 3:10:30 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, _PolicyPaymentEntriesFormissing.Count: 0
+12/3/2019 3:10:30 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Rflag: False
+12/3/2019 3:10:30 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, FollowupIssueLst calculating 
+12/3/2019 3:10:30 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, FollowupIssueLst calculated 
+12/3/2019 3:10:30 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, issfolllst calculated 
+12/3/2019 3:10:33 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, _PolicyPaymentEntriesFormissing.Count == 0 entered
+12/3/2019 3:10:33 PM - PolicyID: 1bc0fce1-e10b-4247-aaec-e30623dcfef8, Advance found as: 0
+12/3/2019 3:10:33 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, isIssueRaise: True
+12/3/2019 3:10:33 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Iissfolllst.Count = 0
+12/3/2019 3:10:33 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Issue raised for MissInv (2)
+12/3/2019 3:10:33 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, AutoPolicyTerminateProcess run
+12/3/2019 3:10:34 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, _AllPaymentEntriesOnPolicyFormissing processing
+12/3/2019 3:11:35 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, flagvarience true
+12/3/2019 3:11:36 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, LastMissIssueDate updated 
+12/3/2019 3:11:36 PM - *****************FollowUpService - FollowUpProc Completed**************
+12/3/2019 3:15:22 PM - *****************FollowUpService - FollowUpProc Starts**************
+12/3/2019 3:15:22 PM - Please wait ..fetching policy list from database
+12/3/2019 3:15:22 PM - Policy list found from database, count: 1
+12/3/2019 3:15:22 PM - Policy ID starting: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d
+12/3/2019 3:15:22 PM - Follow up running  for Policy number: testSpeed
+12/3/2019 3:15:40 PM - Details fetching for policyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d
+12/3/2019 3:15:40 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, _MasterPolicyMode : Monthly
+12/3/2019 3:15:41 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Last follow up runs updated
+12/3/2019 3:15:41 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, FollowupDate range found as: {FromDate=7/1/2019 12:00:00 AM}{Paymentmode=Monthly}{ToDate=9/30/2019 12:00:00 AM}
+12/3/2019 3:15:41 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, IsTrackPayment true 
+12/3/2019 3:15:41 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, DateRangeForMissingLst calculated successfully
+12/3/2019 3:15:41 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, FollowupIssueLst count: 0
+12/3/2019 3:15:41 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Processing starts for  _DateRangeForMissingLst
+12/3/2019 3:15:41 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, _PolicyPaymentEntriesFormissing.Count: 1
+12/3/2019 3:15:41 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Rflag: False
+12/3/2019 3:15:41 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, FollowupIssueLst calculating 
+12/3/2019 3:15:41 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, FollowupIssueLst calculated 
+12/3/2019 3:15:41 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, issfolllst calculated 
+12/3/2019 3:15:41 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, PolicyPaymentEntries > 0 
+12/3/2019 3:15:41 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, processing for PMC, firstDate: 7/1/2019 12:00:00 AM, LastDate: 7/31/2019 12:00:00 AM
+12/3/2019 3:15:41 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, flagvarience false, removing issue
+12/3/2019 3:15:41 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, _PolicyPaymentEntriesFormissing.Count: 0
+12/3/2019 3:15:41 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Rflag: False
+12/3/2019 3:15:41 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, FollowupIssueLst calculating 
+12/3/2019 3:15:41 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, FollowupIssueLst calculated 
+12/3/2019 3:15:41 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, issfolllst calculated 
+12/3/2019 3:15:41 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, _PolicyPaymentEntriesFormissing.Count == 0 entered
+12/3/2019 3:15:41 PM - PolicyID: 1bc0fce1-e10b-4247-aaec-e30623dcfef8, Advance found as: 0
+12/3/2019 3:15:41 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, isIssueRaise: True
+12/3/2019 3:15:41 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Iissfolllst.Count = 0
+12/3/2019 3:15:41 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Issue raised for MissInv (2)
+12/3/2019 3:15:41 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, AutoPolicyTerminateProcess run
+12/3/2019 3:15:41 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, _PolicyPaymentEntriesFormissing.Count: 0
+12/3/2019 3:15:41 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Rflag: False
+12/3/2019 3:15:41 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, FollowupIssueLst calculating 
+12/3/2019 3:15:41 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, FollowupIssueLst calculated 
+12/3/2019 3:15:41 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, issfolllst calculated 
+12/3/2019 3:15:41 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, _PolicyPaymentEntriesFormissing.Count == 0 entered
+12/3/2019 3:15:41 PM - PolicyID: 1bc0fce1-e10b-4247-aaec-e30623dcfef8, Advance found as: 0
+12/3/2019 3:15:41 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, isIssueRaise: True
+12/3/2019 3:15:41 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Iissfolllst.Count = 0
+12/3/2019 3:15:41 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Issue raised for MissInv (2)
+12/3/2019 3:15:41 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, AutoPolicyTerminateProcess run
+12/3/2019 3:15:41 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, FollowupIssueLst.Count :1
+12/3/2019 3:15:41 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, IsTrackMissingMonth false
+12/3/2019 3:15:41 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, _AllPaymentEntriesOnPolicyFormissing processing
+12/3/2019 3:16:07 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, flagvarience true
+12/3/2019 3:16:07 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, LastMissIssueDate updated 
+12/3/2019 3:16:07 PM - *****************FollowUpService - FollowUpProc Completed**************
+12/3/2019 3:16:58 PM - *****************FollowUpService - FollowUpProc Starts**************
+12/3/2019 3:16:58 PM - Please wait ..fetching policy list from database
+12/3/2019 3:16:58 PM - Policy list found from database, count: 1
+12/3/2019 3:16:58 PM - Policy ID starting: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d
+12/3/2019 3:16:58 PM - Follow up running  for Policy number: testSpeed
+12/3/2019 3:16:59 PM - Details fetching for policyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d
+12/3/2019 3:16:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, _MasterPolicyMode : Monthly
+12/3/2019 3:16:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Last follow up runs updated
+12/3/2019 3:16:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, FollowupDate range found as: {FromDate=7/1/2019 12:00:00 AM}{Paymentmode=Monthly}{ToDate=9/30/2019 12:00:00 AM}
+12/3/2019 3:16:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, IsTrackPayment true 
+12/3/2019 3:16:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, DateRangeForMissingLst calculated successfully
+12/3/2019 3:16:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, FollowupIssueLst count: 0
+12/3/2019 3:16:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Processing starts for  _DateRangeForMissingLst
+12/3/2019 3:16:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, _PolicyPaymentEntriesFormissing.Count: 1
+12/3/2019 3:16:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Rflag: False
+12/3/2019 3:16:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, FollowupIssueLst calculating 
+12/3/2019 3:16:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, FollowupIssueLst calculated 
+12/3/2019 3:16:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, issfolllst calculated 
+12/3/2019 3:16:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, PolicyPaymentEntries > 0 
+12/3/2019 3:16:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, processing for PMC, firstDate: 7/1/2019 12:00:00 AM, LastDate: 7/31/2019 12:00:00 AM
+12/3/2019 3:16:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, flagvarience false, removing issue
+12/3/2019 3:16:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, _PolicyPaymentEntriesFormissing.Count: 0
+12/3/2019 3:16:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Rflag: False
+12/3/2019 3:16:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, FollowupIssueLst calculating 
+12/3/2019 3:16:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, FollowupIssueLst calculated 
+12/3/2019 3:16:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, issfolllst calculated 
+12/3/2019 3:16:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, _PolicyPaymentEntriesFormissing.Count == 0 entered
+12/3/2019 3:16:59 PM - PolicyID: 1bc0fce1-e10b-4247-aaec-e30623dcfef8, Advance found as: 0
+12/3/2019 3:16:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, isIssueRaise: True
+12/3/2019 3:16:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Iissfolllst.Count = 0
+12/3/2019 3:16:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Issue raised for MissInv (2)
+12/3/2019 3:16:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, AutoPolicyTerminateProcess run
+12/3/2019 3:16:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, _PolicyPaymentEntriesFormissing.Count: 0
+12/3/2019 3:16:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Rflag: False
+12/3/2019 3:16:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, FollowupIssueLst calculating 
+12/3/2019 3:16:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, FollowupIssueLst calculated 
+12/3/2019 3:16:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, issfolllst calculated 
+12/3/2019 3:16:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, _PolicyPaymentEntriesFormissing.Count == 0 entered
+12/3/2019 3:16:59 PM - PolicyID: 1bc0fce1-e10b-4247-aaec-e30623dcfef8, Advance found as: 0
+12/3/2019 3:16:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, isIssueRaise: True
+12/3/2019 3:16:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Iissfolllst.Count = 0
+12/3/2019 3:16:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Issue raised for MissInv (2)
+12/3/2019 3:16:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, AutoPolicyTerminateProcess run
+12/3/2019 3:16:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, FollowupIssueLst.Count :1
+12/3/2019 3:16:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, IsTrackMissingMonth false
+12/3/2019 3:16:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, _AllPaymentEntriesOnPolicyFormissing processing
+12/3/2019 3:18:10 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, flagvarience true
+12/3/2019 3:18:10 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, LastMissIssueDate updated 
+12/3/2019 3:18:10 PM - *****************FollowUpService - FollowUpProc Completed**************
+12/3/2019 3:18:58 PM - *****************FollowUpService - FollowUpProc Starts**************
+12/3/2019 3:18:58 PM - Please wait ..fetching policy list from database
+12/3/2019 3:18:58 PM - Policy list found from database, count: 1
+12/3/2019 3:18:58 PM - Policy ID starting: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d
+12/3/2019 3:18:58 PM - Follow up running  for Policy number: testSpeed
+12/3/2019 3:18:58 PM - Details fetching for policyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d
+12/3/2019 3:18:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, _MasterPolicyMode : Monthly
+12/3/2019 3:18:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Last follow up runs updated
+12/3/2019 3:18:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, FollowupDate range found as: {FromDate=7/1/2019 12:00:00 AM}{Paymentmode=Monthly}{ToDate=9/30/2019 12:00:00 AM}
+12/3/2019 3:18:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, IsTrackPayment true 
+12/3/2019 3:18:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, DateRangeForMissingLst calculated successfully
+12/3/2019 3:18:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, FollowupIssueLst count: 0
+12/3/2019 3:18:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Processing starts for  _DateRangeForMissingLst
+12/3/2019 3:18:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, _PolicyPaymentEntriesFormissing.Count: 1
+12/3/2019 3:18:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Rflag: False
+12/3/2019 3:18:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, FollowupIssueLst calculating 
+12/3/2019 3:18:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, FollowupIssueLst calculated 
+12/3/2019 3:18:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, issfolllst calculated 
+12/3/2019 3:18:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, PolicyPaymentEntries > 0 
+12/3/2019 3:18:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, processing for PMC, firstDate: 7/1/2019 12:00:00 AM, LastDate: 7/31/2019 12:00:00 AM
+12/3/2019 3:18:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, flagvarience false, removing issue
+12/3/2019 3:18:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, _PolicyPaymentEntriesFormissing.Count: 0
+12/3/2019 3:18:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Rflag: False
+12/3/2019 3:18:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, FollowupIssueLst calculating 
+12/3/2019 3:18:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, FollowupIssueLst calculated 
+12/3/2019 3:18:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, issfolllst calculated 
+12/3/2019 3:18:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, _PolicyPaymentEntriesFormissing.Count == 0 entered
+12/3/2019 3:18:59 PM - PolicyID: 1bc0fce1-e10b-4247-aaec-e30623dcfef8, Advance found as: 0
+12/3/2019 3:18:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, isIssueRaise: True
+12/3/2019 3:18:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Iissfolllst.Count = 0
+12/3/2019 3:18:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Issue raised for MissInv (2)
+12/3/2019 3:18:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, AutoPolicyTerminateProcess run
+12/3/2019 3:18:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, _PolicyPaymentEntriesFormissing.Count: 0
+12/3/2019 3:18:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Rflag: False
+12/3/2019 3:18:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, FollowupIssueLst calculating 
+12/3/2019 3:18:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, FollowupIssueLst calculated 
+12/3/2019 3:18:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, issfolllst calculated 
+12/3/2019 3:18:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, _PolicyPaymentEntriesFormissing.Count == 0 entered
+12/3/2019 3:18:59 PM - PolicyID: 1bc0fce1-e10b-4247-aaec-e30623dcfef8, Advance found as: 0
+12/3/2019 3:18:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, isIssueRaise: True
+12/3/2019 3:18:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Iissfolllst.Count = 0
+12/3/2019 3:18:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Issue raised for MissInv (2)
+12/3/2019 3:18:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, AutoPolicyTerminateProcess run
+12/3/2019 3:18:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, FollowupIssueLst.Count :1
+12/3/2019 3:18:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, IsTrackMissingMonth false
+12/3/2019 3:18:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, _AllPaymentEntriesOnPolicyFormissing processing
+12/3/2019 3:19:19 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, flagvarience true
+12/3/2019 3:19:19 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, LastMissIssueDate updated 
+12/3/2019 3:19:19 PM - *****************FollowUpService - FollowUpProc Completed**************
+12/3/2019 3:19:57 PM - *****************FollowUpService - FollowUpProc Starts**************
+12/3/2019 3:19:57 PM - Please wait ..fetching policy list from database
+12/3/2019 3:19:57 PM - Policy list found from database, count: 1
+12/3/2019 3:19:57 PM - Policy ID starting: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d
+12/3/2019 3:19:57 PM - Follow up running  for Policy number: testSpeed
+12/3/2019 3:19:58 PM - Details fetching for policyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d
+12/3/2019 3:19:58 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, _MasterPolicyMode : Monthly
+12/3/2019 3:19:58 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Last follow up runs updated
+12/3/2019 3:19:58 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, FollowupDate range found as: {FromDate=7/1/2019 12:00:00 AM}{Paymentmode=Monthly}{ToDate=9/30/2019 12:00:00 AM}
+12/3/2019 3:19:58 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, IsTrackPayment true 
+12/3/2019 3:19:58 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, DateRangeForMissingLst calculated successfully
+12/3/2019 3:19:58 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, FollowupIssueLst count: 0
+12/3/2019 3:19:58 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Processing starts for  _DateRangeForMissingLst
+12/3/2019 3:19:58 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, _PolicyPaymentEntriesFormissing.Count: 1
+12/3/2019 3:19:58 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Rflag: False
+12/3/2019 3:19:58 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, FollowupIssueLst calculating 
+12/3/2019 3:19:58 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, FollowupIssueLst calculated 
+12/3/2019 3:19:58 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, issfolllst calculated 
+12/3/2019 3:19:58 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, PolicyPaymentEntries > 0 
+12/3/2019 3:19:58 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, processing for PMC, firstDate: 7/1/2019 12:00:00 AM, LastDate: 7/31/2019 12:00:00 AM
+12/3/2019 3:19:58 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, flagvarience false, removing issue
+12/3/2019 3:19:58 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, _PolicyPaymentEntriesFormissing.Count: 0
+12/3/2019 3:19:58 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Rflag: False
+12/3/2019 3:19:58 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, FollowupIssueLst calculating 
+12/3/2019 3:19:58 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, FollowupIssueLst calculated 
+12/3/2019 3:19:58 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, issfolllst calculated 
+12/3/2019 3:19:58 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, _PolicyPaymentEntriesFormissing.Count == 0 entered
+12/3/2019 3:19:58 PM - PolicyID: 1bc0fce1-e10b-4247-aaec-e30623dcfef8, Advance found as: 0
+12/3/2019 3:19:58 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, isIssueRaise: True
+12/3/2019 3:19:58 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Iissfolllst.Count = 0
+12/3/2019 3:19:58 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Issue raised for MissInv (2)
+12/3/2019 3:19:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, AutoPolicyTerminateProcess run
+12/3/2019 3:19:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, _PolicyPaymentEntriesFormissing.Count: 0
+12/3/2019 3:19:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Rflag: False
+12/3/2019 3:19:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, FollowupIssueLst calculating 
+12/3/2019 3:19:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, FollowupIssueLst calculated 
+12/3/2019 3:19:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, issfolllst calculated 
+12/3/2019 3:19:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, _PolicyPaymentEntriesFormissing.Count == 0 entered
+12/3/2019 3:19:59 PM - PolicyID: 1bc0fce1-e10b-4247-aaec-e30623dcfef8, Advance found as: 0
+12/3/2019 3:19:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, isIssueRaise: True
+12/3/2019 3:19:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Iissfolllst.Count = 0
+12/3/2019 3:19:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Issue raised for MissInv (2)
+12/3/2019 3:19:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, AutoPolicyTerminateProcess run
+12/3/2019 3:19:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, FollowupIssueLst.Count :1
+12/3/2019 3:19:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, IsTrackMissingMonth false
+12/3/2019 3:19:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, _AllPaymentEntriesOnPolicyFormissing processing
+12/3/2019 3:22:54 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, flagvarience true
+12/3/2019 3:22:55 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, LastMissIssueDate updated 
+12/3/2019 3:22:55 PM - *****************FollowUpService - FollowUpProc Completed**************
+12/3/2019 3:26:57 PM - *****************FollowUpService - FollowUpProc Starts**************
+12/3/2019 3:26:57 PM - Please wait ..fetching policy list from database
+12/3/2019 3:26:57 PM - Policy list found from database, count: 1
+12/3/2019 3:26:57 PM - Policy ID starting: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d
+12/3/2019 3:26:57 PM - Follow up running  for Policy number: testSpeed
+12/3/2019 3:26:57 PM - Details fetching for policyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d
+12/3/2019 3:26:58 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, _MasterPolicyMode : Monthly
+12/3/2019 3:26:58 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Last follow up runs updated
+12/3/2019 3:26:58 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, FollowupDate range found as: {FromDate=7/1/2019 12:00:00 AM}{Paymentmode=Monthly}{ToDate=9/30/2019 12:00:00 AM}
+12/3/2019 3:26:58 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, IsTrackPayment true 
+12/3/2019 3:26:58 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, DateRangeForMissingLst calculated successfully
+12/3/2019 3:26:58 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, FollowupIssueLst count: 0
+12/3/2019 3:26:58 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Processing starts for  _DateRangeForMissingLst
+12/3/2019 3:26:58 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, _PolicyPaymentEntriesFormissing.Count: 0
+12/3/2019 3:26:58 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Rflag: False
+12/3/2019 3:26:58 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, FollowupIssueLst calculating 
+12/3/2019 3:26:58 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, FollowupIssueLst calculated 
+12/3/2019 3:26:58 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, issfolllst calculated 
+12/3/2019 3:26:58 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, _PolicyPaymentEntriesFormissing.Count == 0 entered
+12/3/2019 3:26:58 PM - PolicyID: 1bc0fce1-e10b-4247-aaec-e30623dcfef8, Advance found as: 0
+12/3/2019 3:26:58 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, isIssueRaise: True
+12/3/2019 3:26:58 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Iissfolllst.Count = 0
+12/3/2019 3:26:58 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Issue raised for MissInv (2)
+12/3/2019 3:26:58 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, AutoPolicyTerminateProcess run
+12/3/2019 3:26:58 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, _PolicyPaymentEntriesFormissing.Count: 0
+12/3/2019 3:26:58 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Rflag: False
+12/3/2019 3:26:58 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, FollowupIssueLst calculating 
+12/3/2019 3:26:58 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, FollowupIssueLst calculated 
+12/3/2019 3:26:58 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, issfolllst calculated 
+12/3/2019 3:26:58 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, _PolicyPaymentEntriesFormissing.Count == 0 entered
+12/3/2019 3:26:58 PM - PolicyID: 1bc0fce1-e10b-4247-aaec-e30623dcfef8, Advance found as: 0
+12/3/2019 3:26:58 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, isIssueRaise: True
+12/3/2019 3:26:58 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Iissfolllst.Count = 0
+12/3/2019 3:26:58 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Issue raised for MissInv (2)
+12/3/2019 3:26:58 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, AutoPolicyTerminateProcess run
+12/3/2019 3:26:58 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, _PolicyPaymentEntriesFormissing.Count: 0
+12/3/2019 3:26:58 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Rflag: False
+12/3/2019 3:26:58 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, FollowupIssueLst calculating 
+12/3/2019 3:26:58 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, FollowupIssueLst calculated 
+12/3/2019 3:26:58 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, issfolllst calculated 
+12/3/2019 3:26:58 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, _PolicyPaymentEntriesFormissing.Count == 0 entered
+12/3/2019 3:26:58 PM - PolicyID: 1bc0fce1-e10b-4247-aaec-e30623dcfef8, Advance found as: 0
+12/3/2019 3:26:58 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, isIssueRaise: True
+12/3/2019 3:26:58 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Iissfolllst.Count = 0
+12/3/2019 3:26:58 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Issue raised for MissInv (2)
+12/3/2019 3:26:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, AutoPolicyTerminateProcess run
+12/3/2019 3:26:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, FollowupIssueLst.Count :1
+12/3/2019 3:26:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, IsTrackMissingMonth false
+12/3/2019 3:26:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, _AllPaymentEntriesOnPolicyFormissing processing
+12/3/2019 3:28:13 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, flagvarience true
+12/3/2019 3:28:13 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, LastMissIssueDate updated 
+12/3/2019 3:28:13 PM - *****************FollowUpService - FollowUpProc Completed**************
+12/3/2019 3:31:04 PM - *****************FollowUpService - FollowUpProc Starts**************
+12/3/2019 3:31:04 PM - Please wait ..fetching policy list from database
+12/3/2019 3:31:04 PM - Policy list found from database, count: 1
+12/3/2019 3:31:04 PM - Policy ID starting: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d
+12/3/2019 3:31:04 PM - Follow up running  for Policy number: testSpeed
+12/3/2019 3:31:04 PM - Details fetching for policyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d
+12/3/2019 3:31:05 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, _MasterPolicyMode : Monthly
+12/3/2019 3:31:05 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Last follow up runs updated
+12/3/2019 3:31:05 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, FollowupDate range found as: {FromDate=7/1/2019 12:00:00 AM}{Paymentmode=Monthly}{ToDate=9/30/2019 12:00:00 AM}
+12/3/2019 3:31:05 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, IsTrackPayment true 
+12/3/2019 3:31:05 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, DateRangeForMissingLst calculated successfully
+12/3/2019 3:31:05 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, FollowupIssueLst count: 0
+12/3/2019 3:31:05 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Processing starts for  _DateRangeForMissingLst
+12/3/2019 3:31:05 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, _PolicyPaymentEntriesFormissing.Count: 0
+12/3/2019 3:31:05 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Rflag: False
+12/3/2019 3:31:05 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, FollowupIssueLst calculating 
+12/3/2019 3:31:05 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, FollowupIssueLst calculated 
+12/3/2019 3:31:05 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, issfolllst calculated 
+12/3/2019 3:31:05 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, _PolicyPaymentEntriesFormissing.Count == 0 entered
+12/3/2019 3:31:05 PM - PolicyID: 1bc0fce1-e10b-4247-aaec-e30623dcfef8, Advance found as: 0
+12/3/2019 3:31:05 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, isIssueRaise: True
+12/3/2019 3:31:05 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Iissfolllst.Count = 0
+12/3/2019 3:31:05 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Issue raised for MissInv (2)
+12/3/2019 3:31:05 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, AutoPolicyTerminateProcess run
+12/3/2019 3:31:05 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, _PolicyPaymentEntriesFormissing.Count: 0
+12/3/2019 3:31:05 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Rflag: False
+12/3/2019 3:31:05 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, FollowupIssueLst calculating 
+12/3/2019 3:31:05 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, FollowupIssueLst calculated 
+12/3/2019 3:31:05 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, issfolllst calculated 
+12/3/2019 3:31:05 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, _PolicyPaymentEntriesFormissing.Count == 0 entered
+12/3/2019 3:31:05 PM - PolicyID: 1bc0fce1-e10b-4247-aaec-e30623dcfef8, Advance found as: 0
+12/3/2019 3:31:05 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, isIssueRaise: True
+12/3/2019 3:31:05 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Iissfolllst.Count = 0
+12/3/2019 3:31:05 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Issue raised for MissInv (2)
+12/3/2019 3:31:05 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, AutoPolicyTerminateProcess run
+12/3/2019 3:31:05 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, _PolicyPaymentEntriesFormissing.Count: 0
+12/3/2019 3:31:05 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Rflag: False
+12/3/2019 3:31:05 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, FollowupIssueLst calculating 
+12/3/2019 3:31:05 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, FollowupIssueLst calculated 
+12/3/2019 3:31:05 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, issfolllst calculated 
+12/3/2019 3:31:05 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, _PolicyPaymentEntriesFormissing.Count == 0 entered
+12/3/2019 3:31:05 PM - PolicyID: 1bc0fce1-e10b-4247-aaec-e30623dcfef8, Advance found as: 0
+12/3/2019 3:31:05 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, isIssueRaise: True
+12/3/2019 3:31:05 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Iissfolllst.Count = 0
+12/3/2019 3:31:05 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Issue raised for MissInv (2)
+12/3/2019 3:31:06 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, AutoPolicyTerminateProcess run
+12/3/2019 3:31:06 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, FollowupIssueLst.Count :2
+12/3/2019 3:31:06 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, IsTrackMissingMonth false
+12/3/2019 3:31:06 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, _AllPaymentEntriesOnPolicyFormissing processing
+12/3/2019 3:31:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, flagvarience true
+12/3/2019 3:32:00 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, LastMissIssueDate updated 
+12/3/2019 3:32:00 PM - *****************FollowUpService - FollowUpProc Completed**************
+12/3/2019 3:33:58 PM - *****************FollowUpService - FollowUpProc Starts**************
+12/3/2019 3:33:59 PM - Please wait ..fetching policy list from database
+12/3/2019 3:33:59 PM - Policy list found from database, count: 1
+12/3/2019 3:33:59 PM - Policy ID starting: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d
+12/3/2019 3:33:59 PM - Follow up running  for Policy number: testSpeed
+12/3/2019 3:33:59 PM - Details fetching for policyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d
+12/3/2019 3:33:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, _MasterPolicyMode : Monthly
+12/3/2019 3:33:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Last follow up runs updated
+12/3/2019 3:33:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, FollowupDate range found as: {FromDate=6/1/2020 12:00:00 AM}{Paymentmode=Monthly}{ToDate=9/30/2019 12:00:00 AM}
+12/3/2019 3:33:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, IsTrackPayment true 
+12/3/2019 3:33:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, DateRangeForMissingLst calculated successfully
+12/3/2019 3:33:59 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, FollowupIssueLst count: 0
+12/3/2019 3:34:00 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Processing starts for  _DateRangeForMissingLst
+12/3/2019 3:34:00 PM - *****************FollowUpService - FollowUpProc Completed**************
+12/3/2019 3:34:13 PM - *****************FollowUpService - FollowUpProc Starts**************
+12/3/2019 3:34:13 PM - Please wait ..fetching policy list from database
+12/3/2019 3:34:13 PM - Policy list found from database, count: 1
+12/3/2019 3:34:13 PM - Policy ID starting: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d
+12/3/2019 3:34:13 PM - Follow up running  for Policy number: testSpeed
+12/3/2019 3:34:13 PM - Details fetching for policyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d
+12/3/2019 3:34:14 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, _MasterPolicyMode : Monthly
+12/3/2019 3:34:14 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Last follow up runs updated
+12/3/2019 3:34:14 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, FollowupDate range found as: {FromDate=6/1/2020 12:00:00 AM}{Paymentmode=Monthly}{ToDate=9/30/2019 12:00:00 AM}
+12/3/2019 3:34:14 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, IsTrackPayment true 
+12/3/2019 3:34:14 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, DateRangeForMissingLst calculated successfully
+12/3/2019 3:34:14 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, FollowupIssueLst count: 0
+12/3/2019 3:34:14 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Processing starts for  _DateRangeForMissingLst
+12/3/2019 3:34:14 PM - *****************FollowUpService - FollowUpProc Completed**************
+12/3/2019 3:34:41 PM - *****************FollowUpService - FollowUpProc Starts**************
+12/3/2019 3:34:41 PM - Please wait ..fetching policy list from database
+12/3/2019 3:34:41 PM - Policy list found from database, count: 1
+12/3/2019 3:34:41 PM - Policy ID starting: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d
+12/3/2019 3:34:41 PM - Follow up running  for Policy number: testSpeed
+12/3/2019 3:34:41 PM - Details fetching for policyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d
+12/3/2019 3:34:41 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, _MasterPolicyMode : Monthly
+12/3/2019 3:34:41 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Last follow up runs updated
+12/3/2019 3:34:41 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, FollowupDate range found as: {FromDate=6/1/2020 12:00:00 AM}{Paymentmode=Monthly}{ToDate=9/30/2019 12:00:00 AM}
+12/3/2019 3:34:41 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, IsTrackPayment true 
+12/3/2019 3:34:41 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, DateRangeForMissingLst calculated successfully
+12/3/2019 3:34:41 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, FollowupIssueLst count: 0
+12/3/2019 3:34:41 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, Processing starts for  _DateRangeForMissingLst
+12/3/2019 3:34:42 PM - *****************FollowUpService - FollowUpProc Completed**************
+12/3/2019 3:35:16 PM - *****************FollowUpService - FollowUpProc Starts**************
+12/3/2019 3:35:16 PM - Please wait ..fetching policy list from database
+12/3/2019 3:35:16 PM - Policy list found from database, count: 1
+12/3/2019 3:35:16 PM - Policy ID starting: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d
+12/3/2019 3:35:16 PM - Follow up running  for Policy number: testSpeed
+12/3/2019 3:36:56 PM - PolicyID: 2d0a97c1-1411-320d-4651-c66b9f5a1b3d, _AllPaymentEntriesOnPolicyFormissing processing

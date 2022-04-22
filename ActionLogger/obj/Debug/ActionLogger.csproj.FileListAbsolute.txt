@@ -1,0 +1,17 @@
+E:\Jyotisna\Projects\Local SVN\Trunk\trunk\Followup\ApplicationCode\branches\Followup_LocalSVN_Prodn\ActionLogger\bin\Debug\ActionLogger.dll
+E:\Jyotisna\Projects\Local SVN\Trunk\trunk\Followup\ApplicationCode\branches\Followup_LocalSVN_Prodn\ActionLogger\bin\Debug\ActionLogger.pdb
+E:\Jyotisna\Projects\Local SVN\Trunk\trunk\Followup\ApplicationCode\branches\Followup_LocalSVN_Prodn\ActionLogger\obj\Debug\ActionLogger.csproj.CoreCompileInputs.cache
+E:\Jyotisna\Projects\Local SVN\Trunk\trunk\Followup\ApplicationCode\branches\Followup_LocalSVN_Prodn\ActionLogger\obj\Debug\ActionLogger.dll
+E:\Jyotisna\Projects\Local SVN\Trunk\trunk\Followup\ApplicationCode\branches\Followup_LocalSVN_Prodn\ActionLogger\obj\Debug\ActionLogger.pdb
+E:\Jyotisna\Projects\Local SVN\Trunk\trunk\Followup\ApplicationCode\branches\Followup_LocalSVN_Prodn\ActionLogger\obj\Debug\ActionLogger.csprojAssemblyReference.cache
+E:\Jyotisna\Projects\Local SVN\FollowupService\Trunk\ActionLogger\bin\Debug\ActionLogger.dll
+E:\Jyotisna\Projects\Local SVN\FollowupService\Trunk\ActionLogger\bin\Debug\ActionLogger.pdb
+E:\Jyotisna\Projects\Local SVN\FollowupService\Trunk\ActionLogger\obj\Debug\ActionLogger.csproj.CoreCompileInputs.cache
+E:\Jyotisna\Projects\Local SVN\FollowupService\Trunk\ActionLogger\obj\Debug\ActionLogger.dll
+E:\Jyotisna\Projects\Local SVN\FollowupService\Trunk\ActionLogger\obj\Debug\ActionLogger.pdb
+C:\Users\HP\Desktop\amit 30-02-2022\Project\Followup_Live\followUpService\Trunk\Trunk\ActionLogger\bin\Debug\ActionLogger.dll
+C:\Users\HP\Desktop\amit 30-02-2022\Project\Followup_Live\followUpService\Trunk\Trunk\ActionLogger\bin\Debug\ActionLogger.pdb
+C:\Users\HP\Desktop\amit 30-02-2022\Project\Followup_Live\followUpService\Trunk\Trunk\ActionLogger\obj\Debug\ActionLogger.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\amit 30-02-2022\Project\Followup_Live\followUpService\Trunk\Trunk\ActionLogger\obj\Debug\ActionLogger.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\amit 30-02-2022\Project\Followup_Live\followUpService\Trunk\Trunk\ActionLogger\obj\Debug\ActionLogger.dll
+C:\Users\HP\Desktop\amit 30-02-2022\Project\Followup_Live\followUpService\Trunk\Trunk\ActionLogger\obj\Debug\ActionLogger.pdb

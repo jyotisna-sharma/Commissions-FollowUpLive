@@ -1,0 +1,9 @@
+9/3/2019 11:49:47 AM - Issue  for Policy ID: f80771c2-7b2a-46af-be44-e1fbbea0ead3
+9/3/2019 11:49:47 AM -    at System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   at System.Nullable`1.get_Value()
+   at MyAgencyVault.BusinessLibrary.DateGroup.GetAllDateRange() in E:\Jyotisna\Projects\Local SVN\Trunk\trunk\Followup\ApplicationCode\branches\Followup_LocalSVN_Prodn\MyAgencyVault.BusinessLibrary\PostProcess\FollowUpProcedure.cs:line 2928
+   at MyAgencyVault.BusinessLibrary.FollowUpUtill.FromYearlyDate(Guid PolicyId, Boolean isPaymentExist, PolicyDetailsData policy) in E:\Jyotisna\Projects\Local SVN\Trunk\trunk\Followup\ApplicationCode\branches\Followup_LocalSVN_Prodn\MyAgencyVault.BusinessLibrary\PostProcess\FollowUpProcedure.cs:line 2740
+   at MyAgencyVault.BusinessLibrary.FollowUpUtill.CalculateFollowUpDateRange(PaymentMode _PaymentType, PolicyDetailsData Policy, Boolean IsPaymentExist) in E:\Jyotisna\Projects\Local SVN\Trunk\trunk\Followup\ApplicationCode\branches\Followup_LocalSVN_Prodn\MyAgencyVault.BusinessLibrary\PostProcess\FollowUpProcedure.cs:line 1937
+   at MyAgencyVault.FollowUpProcess.FollowUpService.FollowUpProcedure(PolicyDetailsData FollowPolicy, Boolean IsTrackPayment) in E:\Jyotisna\Projects\Local SVN\Trunk\trunk\Followup\ApplicationCode\branches\Followup_LocalSVN_Prodn\FollowUpProcess\FollowUp.cs:line 144
+   at MyAgencyVault.FollowUpProcess.FollowUpService.FollowUpProc() in E:\Jyotisna\Projects\Local SVN\Trunk\trunk\Followup\ApplicationCode\branches\Followup_LocalSVN_Prodn\FollowUpProcess\FollowUp.cs:line 69
+9/3/2019 12:06:02 PM - IsIssueToBeRaised: advance - 12, from - 1/1/2019 12:00:00 AM, effdate: 1/1/2018 12:00:00 AM
